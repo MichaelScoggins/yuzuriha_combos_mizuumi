@@ -113,12 +113,11 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 
 2. `5C > 236A~D, 66C(1) > j236B > j6C > j6A > dlj214B, 5B/5C > dlj2C > jB > jC, 66B > 236B~A~B > 236A+D` | _3575 dmg_ | **Midscreen**
 
-   - Alternative punish route with better carry for slightly less damage. Use `5C` to relaunch on `non-5C starters`. Delay the airstring as late into your jump as possible to give yourself more time for the `66B` link.
-   - _Kiri ender: 3669 damage_. Not D-canceling `j214B` helps significantly with height management. `CH 236A` can do `2C > 5C > airstring > kiri ender` for _3681 damage_.
-     `CH j236A` gets the same route into `66B 236A~B~6C 6A 236A+D` for _3684_.
+   - Alternative, punish route with better carry for slightly less damage. Use `5C` to relaunch on `non-5C starters`. Delay the airstring as late into your jump as possible to give yourself more time for the `66B` link.
+   - _Kiri ender: 3669 damage_. Not D-canceling `j214B` helps significantly with height management. `CH 236A` can do `2C > 5C > airstring > kiri ender` for _3681 damage_. `CH j236A` gets the same route into `66B 236A~B~6C 6A 236A+D` for _3684 dmg_.
 
 3. `5C > 236A > 9D, icj2C, j236A > j6C > j6B > j6A > 9D, jB > jC > 66B > 236B > 6C > 214A, 66B > 236A > 214B > 421A~D` | _3758 dmg_ | **Corner**
-   - New patch TK routing making use of Yuzuriha's extra jump cancel in combo. Does high damage and builds 1 full bar of meter. The combo can build 100 meter with the starters: `5B` `(5/2C)`, `4C`, `2C`, `4B` and `CH 2B (5/2C)`.
+   - New patch TK routing making use of Yuzuriha's extra jump cancel in combo. Does high damage and builds 1 full bar of meter. The combo can build 100 meter with the starters: `5B (5/2C)`, `4C`, `2C`, `4B` and `CH 2B (5/2C)`.
 
 ## 2C Launch & 5C Anti-Air
 
@@ -237,8 +236,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 ## 236C
 
-`236C` is your most damaging starter, works at almost any range, and is faster than some of your best meterless starters. Especially good if starting from 200 so that you can rebuild some meter midcombo, with an additional +25% refund if in Vorpal.
-`j236C` can follow the `236C` teleport confirms and corner route by utilizing `j421C > 236A, j421C > 2FF and j421B > j236A` as appropriate.
+`236C` is your most damaging starter, works at almost any range, and is faster than some of your best meterless starters. Especially good if starting from 200 so that you can rebuild some meter midcombo, with an additional +25% refund if in Vorpal. `j236C` can follow the `236C` teleport confirms and corner route by utilizing `j421C > 236A, j421C > 2FF and j421B > j236A` as appropriate.
 
 1. `236C > 421B > 2FF > 2C > 236A > 9D > j2[C] > 66C(1) > j236A > j6B > dl j6C > j214A > 8, jC > jB, 66B > 236B~A~B > 236AD` _4134 100 EXS, 1 GRD_ **Midscreen**
 
