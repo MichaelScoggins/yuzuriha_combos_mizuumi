@@ -14,21 +14,26 @@ if the original author/site of the combo guide has any problems or issues with t
 
 it would seem there is a section on the original guide "Normals" which is empty? so i did not include it. i think they started a "far range combos" section with intent of including stance starters and normal starters (presumably 6X) but never got around to it :disappointed:
 
-> Combo Sections
+---
 
-- [**Close Range Combos**](#close-range-combos)
-  - [Throw](#throw)
-  - [Assault](#assault)
-  - [A starters](#a-starters)
-  - [B/C Starters](#bc-starters)
-  - [2C Launch \& 5C Anti-Air](#2c-launch--5c-anti-air)
-  - [Force Function Starter/Extension](#force-function-starterextension)
-  - [66C](#66c)
-- [**Far Range Combos**](#far-range-combos)
-  - [Stance](#stance)
-  - [236C](#236c)
-  - [214X/j214X](#214xj214x)
-- [Air-to-Air](#air-to-air)
+> **Combo Sections**
+>
+> - [_Standard Enders_](#standard-enders)
+> - [_Metered Enders_](#metered-enders)
+>
+> - [**Close Range Combos**](#close-range-combos)
+>   - [Throw](#throw)
+>   - [Assault](#assault)
+>   - [A starters](#a-starters)
+>   - [B/C Starters](#bc-starters)
+>   - [2C Launch \& 5C Anti-Air](#2c-launch--5c-anti-air)
+>   - [Force Function Starter/Extension](#force-function-starterextension)
+>   - [66C](#66c)
+> - [**Far Range Combos**](#far-range-combos)
+>   - [Stance](#stance)
+>   - [236C](#236c)
+>   - [214X/j214X](#214xj214x)
+>   - [Air-to-Air](#air-to-air)
 
 ---
 
@@ -51,7 +56,7 @@ it would seem there is a section on the original guide "Normals" which is empty?
 
 ## Metered Enders
 
-1. `66B > 236B~A~B > 236A+D > 236C/214C/IW` | _cost: 100/200 EXS_ | **Midscreen**
+1. `66B > 236B~A~B > 236A+D > 236C/214C/IW` **|** _cost: 100/200 EXS_ | **Midscreen**
 
    - Midscreen meter dump. `236C` retains the strong frame advantage of the `236X` enders and adds about 500 damage. `214C` does more damage for worse oki.
      `IW` is interchangeable with all EX enders as desired and able. For IWEX, do `236A~B~A > IWEX` instead.
