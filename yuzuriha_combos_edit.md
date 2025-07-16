@@ -1,3 +1,21 @@
+> Combo Sections
+
+- [**Close Range Combos**](#close-range-combos)
+  - [Throw](#throw)
+  - [Assault](#assault)
+  - [A starters](#a-starters)
+  - [B/C Starters](#bc-starters)
+  - [2C Launch \& 5C Anti-Air](#2c-launch--5c-anti-air)
+  - [Force Function Starter/Extension](#force-function-starterextension)
+  - [66C](#66c)
+- [**Far Range Combos**](#far-range-combos)
+  - [Stance](#stance)
+  - [236C](#236c)
+  - [214X/j214X](#214xj214x)
+- [Air-to-Air](#air-to-air)
+
+---
+
 ## Standard Enders
 
 1. `66B` | **Midscreen (_midscreen means combo must start midscreen and not end in the corner_)**
@@ -184,7 +202,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 Distance proration and variable number of `214X/j214X` hits may cause damage to vary more from values given here. `236X` base damage also decreases with marks used in stance, so hits later in stance will do less damage.
 
-# Stance
+## Stance
 
 1. `236B~D, 236A/236B > dl214B~D, 2C > 5C > dlj2C > jB > jC, 66B > 236B~A~B > 236A+D` | _3009/2716 dmg_ | **Midscreen**
 
