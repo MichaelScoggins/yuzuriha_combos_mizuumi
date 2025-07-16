@@ -4,16 +4,16 @@
    - Basic midscreen knockdown option. Useful if you'd rather keep the opponent close than get some extra damage and meter. Knockdown depends on height/proration, may still allow air tech.
 2. `66B > 236A~B~A~C/236B~A~B > 236A+D` **Midscreen**
    - Primary midscreen ender. Adds damage, creates space, and knocks the opponent high into the air for good frame advantage. The two variants are interchangeable, with one or the other doing slightly more damage depending on the route. `B~A~B` is better if only `236A` was used prior, `A~B~A~C` is better if `236B` was used prior or the combo is extremely heavily scaled, and the two are very close in damage if both were used.
-     May need to delay the first `236X` slightly for proper height in some cases; delaying the `236A+D` slightly creates more space after the combo. Forward teching sets up left/right mix if `236A+D` is not delayed.
-     `66B` is sometimes replaced by some portion of the 4C 2C 4B sequence, at minimum incorporating 2C.
+   - May need to delay the first `236X` slightly for proper height in some cases; delaying the `236A+D` slightly creates more space after the combo. Forward teching sets up left/right mix if `236A+D` is not delayed.
+   - `66B` is sometimes replaced by some portion of the 4C 2C 4B sequence, at minimum incorporating 2C.
 3. `66B/2C > 236B > 6C > dl6B > dl6A > 236A+D` **Midscreen**
    - "Kiri ender". Longer delay on `6B`, then a short delay on `6A` to push the opponent forward enough for `236AD` to connect. More damage than repeated `236X` slashes, but also much more precise and strict on proration/height. Unlikely to work on routes that incur SMP or if the opponent is relatively high up at the `236B` hit. Omitting `6C` or `6B` can sometimes make the ender possible/more consistent for some damage lost.
-     Combos where this ender is possible will have a footnote with damage and any important details.
+   - Combos where this ender is possible will have a footnote with damage and any important details.
 4. `66C` **Corner**
    - Basic corner knockdown ender. Hard knockdown if hit low enough, meaning the opponent is unable to air tech forward. Leaves you slightly plus at `5B` range. Generally not used midscreen because it pushes the opponent much further away than `66B` without the damage of the `236X enders`, but in the corner the resulting spacing is much closer. Landing after leaves Yuzuriha around +8 at `5B` range, or she can cancel into `j421A>j214A~D` or `j214C`.
 5. `66B > 236A > 214B > 421A~D` **Corner**
    - Damage ender for the corner. Nets a left-right mixup if the opponent airtechs forward. Can add `236B` beforehand for slightly more damage but no mixup.
-     Some corner routes pull the opponent out of the corner. In this case, go for the midscreen ender instead.
+   - Some corner routes pull the opponent out of the corner. In this case, go for the midscreen ender instead.
 
 ## Metered Enders
 
@@ -27,8 +27,8 @@
    - Corner meter dump. `236B~A 214B j214C+D` can squeeze out a little more damage to close rounds.
 
 3. `CVO, 66B > 236B~A~B > 236A+D > IW` _100 EXS, Vorpal_ **Midscreen**
-   `Low meter CVO` ender. Skip to `IW` after `236BA` in the corner.
 
+   - `Low meter CVO` ender. Skip to `IW` after `236BA` in the corner.
    - For all `CVO` enders, you can start from any previous meterless ender and `CVO` immediately after the last attack that is not D-paired.
 
 4. `CVO, TK j.214C > IW` _200 EXS, Vorpal_ **Anywhere**
@@ -56,7 +56,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 2. `A+D~2, 66C(1) > j236A > j6B > dlj6C > j214A > 8, jC > jB, 66B > 236A~B~A~C > 236A+D` _1902_ **Midscreen**
 
    - Midscreen throw route. `66C(1) > j236A > j6B > dlj6C > j214A > 8 > jC > jB` is an important combo piece in Yuzuriha's higher damage combos.
-     _Kiri ender: 1920_ as `236B > 6C > dl6B > 6A`. Due to teching out after `6a`, `236AD` followup is not possible in this throw combo.
+   - _Kiri ender: 1920_ as `236B > 6C > dl6B > 6A`. Due to teching out after `6a`, `236AD` followup is not possible in this throw combo.
 
 3. `A+D~2, (6B >) 6C > 236A > 9D, dljC, 66C > j236A > j6C > j214B~D, 66B > 236B~A~B > 236A+D` _1841 (1882)_ **Midscreen**
 
@@ -88,7 +88,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - Mainstay UNISC route and a key upgrade over Assault routing. `214A` stays on the same side, while `214B+D` sideswaps. Change the ender if in corner.
      `ICj2C` is more strict about starters than previous routes. `5A` must immediately combo into a `B` or `C` normal then `236A`, while `2AA > B or C normal > 236A and 2AA > 2B > 2C/5B > 236A` are possible. Anything more will drop. Less filler is better for damage. `B/C` starters will work more consistently but should still confirm to `236A` as quickly as possible.
-     Try to not repeat use of `5C/2C` for max damage, but `2C > 236B > etc` is easier to start with and will work regardless.
+   - Try to not repeat use of `5C/2C` for max damage, but `2C > 236B > etc` is easier to start with and will work regardless.
 
 2. `2A/5A > 5C/2C > 236A > 9D, icj2C, 66C > j236A > j6C > j214A~D, 66B > 236B~A~B > 236A+D` _3077_ **Midscreen**
 
@@ -104,13 +104,13 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 1. `5B > 5C/2C > 236A > 9D, icj2C, 66C(1) > j236A > j6B > dlj6C > j214A > 8, jC > jB 66B > 236B~A~B > 236A+D` _3583_ **Anywhere**
 
    - Adds some damage and carry on better starters. Can work from `2A > 5C` but requires an extremely difficult and impractical 1f delay on `j.C > j.B`.
-     You can also confirm into this route after `6C~D` with `66B > 236A`
-     _Kiri ender: 3677 damage_, `5B` or better starters only. `2C` pickup into this route with kiri ender is great for starters like `4B` parry or `2FF`, getting nearly optimal damage with less effort on the confirm.
+   - You can also confirm into this route after `6C~D` with `66B > 236A`
+   - _Kiri ender: 3677 damage_, `5B` or better starters only. `2C` pickup into this route with kiri ender is great for starters like `4B` parry or `2FF`, getting nearly optimal damage with less effort on the confirm.
 
 2. `5C > 236A~D, 66C(1) > j236B > j6C > j6A > dlj214B, 5B/5C > dlj2C > jB > jC, 66B > 236B~A~B > 236A+D` _3575_ **Midscreen**
 
    - Alternative punish route with better carry for slightly less damage. Use `5C` to relaunch on `non-5C starters`. Delay the airstring as late into your jump as possible to give yourself more time for the `66B` link.
-     _Kiri ender: 3669 damage_. Not D-canceling `j214B` helps significantly with height management. `CH 236A` can do `2C > 5C > airstring > kiri ender` for _3681 damage_.
+   - _Kiri ender: 3669 damage_. Not D-canceling `j214B` helps significantly with height management. `CH 236A` can do `2C > 5C > airstring > kiri ender` for _3681 damage_.
      `CH j236A` gets the same route into `66B 236A~B~6C 6A 236A+D` for _3684_.
 
 3. `5C > 236A > 9D, icj2C, j236A > j6C > j6B > j6A > 9D, jB > jC > 66B > 236B > 6C > 214A, 66B > 236A > 214B > 421A~D` _3758_ **Corner**
@@ -187,17 +187,17 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - Basic `6X/236B` conversion and your go-to combo near max `236B` range. `236A > dl 214B~D` will cover most hits, but near max range you need `236B` instead.
      `j236B` can also go into any `236B` starter route at heights that will hit standing opponents, but there's a trick: above TK height you'll want to whiff `jA` or `jB` as you fall to reduce landing recovery and then buffer your followup behind that. Use whichever button doesn't correspond to your followup `236X` hit to make things easier.
-     _Kiri ender: 3083/2744 damage_, can get _2798 damage_ on `236B 236B` by changing the ender to `236A 6C`.
+   - _Kiri ender: 3083/2744 damage_, can get _2798 damage_ on `236B 236B` by changing the ender to `236A 6C`.
 
 2. `236B~D, 236A > 421C > dl j214B~D, 2C > 5C > dlj2C > jB > jC, 66B > 236A~B~A~B > 236A+D` _3184_ **Midscreen**
 
    - Higher damage conversion with less carry. Delay `j214B` slightly to get more hits and higher damage.
-     _Kiri ender: 3365 damage_
+   - _Kiri ender: 3365 damage_
 
 3. `236B~D, 236A > 421C > (j421B >) j6A > j214A+D, 2C > 5C > dlj2C > jB > jC, 66B > 236A~B~A~B > 236A+D` _3345_ **Midscreen**
 
    - Optimized midrange damage. Adding `j421B` puts you back on the same side, but makes the combo more difficult. Omit `2C` if starting with `6A` or `6C`.
-     _Kiri ender: 3304 damage_. Very difficult, requires very clean height management beforehand.
+   - _Kiri ender: 3304 damage_. Very difficult, requires very clean height management beforehand.
 
 4. `236B~D, dl236A > 421B > dl6A > 214B+D, 2C > 5C > dlj2C > jB > jC, 66B > 236A~B~A~B > 236A+D` _3204_ **Midscreen**
 
@@ -211,7 +211,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 6. `j236A/j6C > j236B > j214B+D, 2C > 5C > dlj2C > jB > jC, 66B > 236A~B~A~C > 236A+D` _3224/2970_ **Midscreen**
 
    - Same concept as the ground conversions, but for common air stance attacks. This combo is likely one of your main uses for negative edge D-pairing, so it's a good opportunity to practice that as well.
-     _Kiri ender: 3270/3036_
+   - _Kiri ender: 3270/3036_
 
 7. `236B~D, 66C(1) > j236A > 9D, icj2C, 5C > 236A > 6C > dl6B > 214A/214B+D, 66B > 236A > 214B > 421A~D` _3490_ **Corner**
 
@@ -227,8 +227,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
    - Higher damage metered confirm from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
 10. `236B, 421B > 6A > FF~A~D, 2C > 236A > dl9D, jB > jC, 66C > j236A > j6B > j214A, 66B > 236A > 214B > 421A~D` _3296 1 GRD_ **Back to Corner**
-
-- `FF~A` confirm to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
+    - `FF~A` confirm to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
 
 ## 236C
 
@@ -242,7 +241,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 2. `236C > 421B > dl6C > dl236A > 9D, icj2C, 66C(1) > j236A > j6B > j6C > dlj214A > 8, j.C > j.B, 66B > 236B~A~B > 236A+D` _4176 100 EXS_ **Midscreen**
 
    - GRDless Midscreen confirm for varying ranges. Sideswaps from about 2/3rds screen and closer.
-     _Kiri ender: 4241 damage_
+   - _Kiri ender: 4241 damage_
 
 3. `236C > 421B > 236A~D, 66C(1) > j236A > 9D, icj2C, 5C (> dl2C) > 236B > 6C > dl6B > 214A/214B+D, 66B > 236A~B~A~C > 236A+D` _4064/4156 100 EXS_ **Midscreen, Close**
 
