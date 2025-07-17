@@ -18,6 +18,7 @@ it would seem there is a section on the original guide "Normals" which is empty?
 
 > **Combo Sections**
 >
+> - [**Starter Combos**](#starter-combos)
 > - [_Standard Enders_](#standard-enders)
 > - [_Metered Enders_](#metered-enders)
 >
@@ -36,6 +37,16 @@ it would seem there is a section on the original guide "Normals" which is empty?
 >   - [Air-to-Air](#air-to-air)
 
 ---
+
+## Starter Combos
+
+1. `2A > 5C > 2C > 236B > 6C > 6B > 214A~D/214B+D > 2C > 236A~B~A~C > 236A+D` _2974 dmg_ **|** **Anywhere**
+
+   - Very consistent route for normal and `Assault` starters that works both **midscreen** and in **corner**. Also works from `throw` if you skip to `2C`. Use `214A` to stay on the same side of your opponent, `214B~D` to sideswap. _Adjust the ender if in_ **corner**.
+
+2. `A+D~2, 5C > dl2C > 236B > 6C > dl6B > 214A~D/214B+D > dl66B > 236A~B~A~C > 236A+D` _1819 dmg_ **|** **Anywhere**
+
+   - Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
 
 ## Standard Enders
 
@@ -59,7 +70,7 @@ it would seem there is a section on the original guide "Normals" which is empty?
 1. `66B > 236B~A~B > 236A+D > 236C/214C/IW` _cost: 100/200 EXS_ **|** **Midscreen**
 
    - Midscreen meter dump. `236C` retains the strong frame advantage of the `236X` enders and adds about 500 damage. `214C` does more damage for worse oki.
-     `IW` is interchangeable with all EX enders as desired and able. For IWEX, do `236A~B~A > IWEX` instead.
+     `IW` is interchangeable with all EX enders as desired and able. For `IWEX`, do `236A~B~A > IWEX` instead.
 
 2. `66B > 236A > 214B > j214C > 421A~D` _100 EXS_ **|** **Corner**
 
