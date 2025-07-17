@@ -465,9 +465,9 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D` (`j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. i hope it's a typo; otherwise i'm definitely missing something)
 [^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
 [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
-[^8]: omitting parentheses requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
-
-including the parentheses nets _3645-3653_. the `66C` is a tight pickup you do include them.
+[^8]:
+    omitting parentheses requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
+    including the parentheses nets _3645-3653_. the `66C` is a tight pickup you do include them.
 
 [^9]: i added the `AA ` to the front of this combo for immediate clarity
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
