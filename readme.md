@@ -44,7 +44,7 @@ it would seem there is a section on the original guide "Normals" which is empty?
 2. `66B > 236A~B~A~C/236B~A~B > 236A+D` **Midscreen**
    - Primary midscreen ender. Adds damage, creates space, and knocks the opponent high into the air for good frame advantage. The two variants are interchangeable, with one or the other doing slightly more damage depending on the route. `B~A~B` is better if only `236A` was used prior, `A~B~A~C` is better if `236B` was used prior or the combo is extremely heavily scaled, and the two are very close in damage if both were used.
    - May need to delay the first `236X` slightly for proper height in some cases; delaying the `236A+D` slightly creates more space after the combo. Forward teching sets up left/right mix if `236A+D` is not delayed.
-   - `66B` is sometimes replaced by some portion of the 4C 2C 4B sequence, at minimum incorporating 2C.
+   - `66B` is sometimes replaced by some portion of the `4C 2C 4B` sequence, at minimum incorporating `2C`.
 3. `66B/2C > 236B > 6C > dl6B > dl6A > 236A+D` **Midscreen**
    - "Kiri ender". Longer delay on `6B`, then a short delay on `6A` to push the opponent forward enough for `236AD` to connect. More damage than repeated `236X` slashes, but also much more precise and strict on proration/height. Unlikely to work on routes that incur SMP or if the opponent is relatively high up at the `236B` hit. Omitting `6C` or `6B` can sometimes make the ender possible/more consistent for some damage lost.
    - Combos where this ender is possible will have a footnote with damage and any important details.
