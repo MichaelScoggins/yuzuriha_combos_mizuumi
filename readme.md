@@ -8,7 +8,7 @@ while struggling to internalize the above guide for Yuzu in my attempt to become
 
 this "project" is merely an exercise in improving readability as i attempt to internalize every combo in this impressive list. it is also going to reflect my (lack of) proficiency in markdown.
 
-i figured it could help someone else, so here it is. it also serves as a nice reference for myself in the highly likely event that i end up the only human to benefit from it in any way. changes are mostly formatting/highlighting-related, but I also will possibly add notes for further clarity on anything which confuses me too much (i recently finished doing these combos and was a bit confused in many spots, and i am about to go through again from the right side of the screen this time). i will use footnotes any time i explicitly add or change anything
+i figured it could help someone else, so here it is. it also serves as a nice reference for myself in the highly likely event that i end up the only human to benefit from it in any way. changes are mostly formatting/highlighting-related, but I also will ~~possibly~~ add notes for further clarity on anything which confuses me too much (i recently finished doing these combos and was a bit confused in many spots, and i am about to go through again from the right side of the screen this time). i will use footnotes any time i explicitly add or change anything
 
 if the original author/site of the combo guide has any problems or issues with this repo, i will immediately remove it
 
