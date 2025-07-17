@@ -8,11 +8,11 @@ while struggling to internalize the above guide for Yuzu in my attempt to become
 
 this "project" is merely an exercise in improving readability as i attempt to internalize every combo in this impressive list. it is also going to reflect my (lack of) proficiency in markdown.
 
-i figured it could help someone else, so here it is. it also serves as a nice reference for myself in the highly likely event that i end up the only human to benefit from it in any way. changes are mostly formatting/highlighting-related, but I also will possibly add notes for further clarity on anything which confuses me too much. i will use footnotes any time i explicitly add info
+i figured it could help someone else, so here it is. it also serves as a nice reference for myself in the highly likely event that i end up the only human to benefit from it in any way. changes are mostly formatting/highlighting-related, but I also will possibly add notes for further clarity on anything which confuses me too much (i recently finished doing these combos and was a bit confused in many spots, and i am about to go through again from the right side of the screen this time). i will use footnotes any time i explicitly add or change anything
 
 if the original author/site of the combo guide has any problems or issues with this repo, i will immediately remove it
 
-it would seem there is a section on the original guide "Normals" which is empty? so i did not include it. i think they started a "far range combos" section with intent of including stance starters and normal starters (presumably 6X) but never got around to it :disappointed:
+it would seem there is a section on the original guide "Normals" that is empty? so i did not include it. i think they started a "far range combos" section with intent of including both stance starters and normal starters (presumably 6X) but never got around to the latter :disappointed:
 
 ---
 
@@ -252,29 +252,30 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 ## Force Function Starter/Extension
 
-1. `2A/5A > 5C > 236A > 9D, icj2C, 2C/6C > 6A > FF~A~D, 66C > j236A > j6C > j214A~D, 66B > 236B~A~B > 236A+D`
+1. `2A/5A > 5C > 236A > 9D, icj2C, 2C/6C > 6A > FF~A~D, 66C > j236A > j6C > j214A~D, 66B > 236B~A~B > 236A+D`[^5]
 
-   _3394 dmg_ **|** cost: 1 GRD **|** **Midscreen**
+   _3394 dmg_[^6] **|** cost: 1 GRD **|** **Midscreen**
 
    - `FF~A` extension for damage and carry at the expense of some GRD
 
-2. `5B > 5C > 236A > 9D, icj2C, 2C > 236B > 6A > FF~A~D > dl 9, j.B > j.C > 66C > j236A > j6C > j214A~D, 66B > 236A~B~A~C > 236A+D`
+2. `5B > 5C > 236A > 9D, icj2C, 2C > 236B > 6A > FF~A~D > dl 9, j.B > j.C > 66C > j236A > j6C > j214A~D, 66B > 236A~B~A~C > 236A+D`[^7]
 
-   _3654 dmg_ **|** 1 GRD **|** meter gain: 101 Opponent: 59 **|** **Midscreen**
+   _3654 dmg_[^7] **|** 1 GRD **|** meter gain: 101 Opponent: 59 **|** **Midscreen**
 
    - `FF~A` extension on better starters. Changes to Yuzuriha's character mechanics allow for her to do 2 jump cancels in one combo, allowing her to squeak just enough hits to build 100 meter in a single combo with a low GRD cost
 
-3. `236A, (66B > 236B >) 6A > FF~A~D, 2C > 5C > j2C > jB > jC, 66C > j236A > j6C > j214B~D, 66B > 236B~A~B > 236A+D`
+3. `236A, (66B > 236B >) 6A > FF~A~D, 2C > 5C > j2C > jB > jC, 66C > j236A > j6C > j214B~D, 66B > 236B~A~B > 236A+D`[^8]
 
-   _3751 dmg (3673)_ **|** 1 GRD **|** **Midscreen**
+   _3751 dmg (3673)_[^8] **|** 1 GRD **|** **Midscreen**
 
    - Non-CH `236A` hit confirms for when you hold too long for or are out of range of `66C1` routes. Great damage, carry, and stability vs `non-FF confirms`, so these are a particularly good use of GRD.
 
-4. `2FF, 2C > 236A > 9D, j2[C], 66C(1) > j236A > j6B > dlj6C > j214A > 8, jC > jB, 66B > 236B~A~B > 236AD`
+4. `AA 2FF, 2C > 236A > 9D, j2[C], 66C(1) > j236A > j6B > dlj6C > j214A > 8, jC > jB, 66B > 236B~A~B > 236AD`[^9]
 
    _3440 dmg_ **|** 1 GRD **|** 81 Opp: 45 **|** **Midscreen**
 
-   - Standard `2FF` Anti-air combo. In some cases, it can be difficult to land `2C`. Pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`, `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.
+   - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.
+   - `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.[^10]
 
 ## 66C
 
@@ -461,3 +462,12 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 - [^2]: _3459_ on `ABAC AD~` & _3435_ on `BAB AD~` for whatever reason
 - [^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
 - [^4]: i get _3571_ for whatever reason
+- [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D` (`j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. i hope it's a typo; otherwise i'm definitely missing something)
+- [^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
+- [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
+- [^8]: omitting parentheses requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
+
+  including the parentheses nets _3645-3653_. the `66C` is a tight pickup you do include them.
+
+- [^9]: i added the `AA ` to the front of this combo for immediate clarity
+- [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
