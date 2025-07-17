@@ -76,33 +76,33 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    _cost: 100/200 EXS_ **|** **Midscreen**
 
-- Midscreen meter dump. `236C` retains the strong frame advantage of the `236X` enders and adds about 500 damage. `214C` does more damage for worse oki.
-  `IW` is interchangeable with all EX enders as desired and able. For `IWEX`, do `236A~B~A > IWEX` instead.
+   - Midscreen meter dump. `236C` retains the strong frame advantage of the `236X` enders and adds about 500 damage. `214C` does more damage for worse oki.
+   - `IW` is interchangeable with all EX enders as desired and able. For `IWEX`, do `236A~B~A > IWEX` instead.
 
 2. `66B > 236A > 214B > j214C > 421A~D`
 
    _100 EXS_ **|** **Corner**
 
-- Corner meter dump. `236B~A 214B j214C+D` can squeeze out a little more damage to close rounds.
+   - Corner meter dump. `236B~A 214B j214C+D` can squeeze out a little more damage to close rounds.
 
 3. `CVO, 66B > 236B~A~B > 236A+D > IW`
 
    _100 EXS, Vorpal_ **|** **Midscreen**
 
-- `Low meter CVO` ender. Skip to `IW` after `236BA` in the corner.
-- For all `CVO` enders, you can start from any previous meterless ender and `CVO` immediately after the last attack that is not D-paired.
+   - `Low meter CVO` ender. Skip to `IW` after `236BA` in the corner.
+   - For all `CVO` enders, you can start from any previous meterless ender and `CVO` immediately after the last attack that is not D-paired.
 
 4. `CVO, TK j.214C > IW`
 
    _200 EXS, Vorpal_ **|** **Anywhere**
 
-- `High health CVO` ender. Delay the `j.214C` slightly to ensure `IW` connects in the corner. `214C` also works, but is slightly slower and thus slightly more meter depletes before you can `IW`. If health is <30% and you have at least 110 meter, you can do this route with `IWEX` instead of `IW`. Sideswaps, so you may want to use `236C` instead of `j`. `214C` if the combo won't kill.
+   - `High health CVO` ender. Delay the `j.214C` slightly to ensure `IW` connects in the corner. `214C` also works, but is slightly slower and thus slightly more meter depletes before you can `IW`. If health is <30% and you have at least 110 meter, you can do this route with `IWEX` instead of `IW`. Sideswaps, so you may want to use `236C` instead of `j`. `214C` if the combo won't kill.
 
 5. `CVO, 66B > 236C > 236A > 214C > IWEX`
 
    _200 EXS, Vorpal_ **|** **Anywhere**
 
-- Low health `CVO` ender, requires full meter before `CVO`.
+   - Low health `CVO` ender, requires full meter before `CVO`.
 
 ---
 
@@ -122,32 +122,32 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    _1533 dmg_ **|** **Anywhere**
 
-- Quick route for extra GRD and nearly as much damage as the non-combo throw. `2B` is the best you can do from throw while still building GRD on `A+B`.
+   - Quick route for extra GRD and nearly as much damage as the non-combo throw. `2B` is the best you can do from throw while still building GRD on `A+B`.
 
 2. `A+D~2, 66C(1) > j236A > j6B > dlj6C > j214A > 8, jC > jB, 66B > 236A~B~A~C > 236A+D`
 
    _1902 dmg_ **|** **Midscreen**
 
-- Midscreen throw route. `66C(1) > j236A > j6B > dlj6C > j214A > 8 > jC > jB` is an important combo piece in Yuzuriha's higher damage combos.
-- _Kiri ender: 1920_ as `236B > 6C > dl6B > 6A`. Due to teching out after `6a`, `236AD` followup is not possible in this throw combo.
+   - Midscreen throw route. `66C(1) > j236A > j6B > dlj6C > j214A > 8 > jC > jB` is an important combo piece in Yuzuriha's higher damage combos.
+   - _Kiri ender: 1920_ as `236B > 6C > dl6B > 6A`. Due to teching out after `6a`, `236AD` followup is not possible in this throw combo.
 
 3. `A+D~2, (6B >) 6C > 236A > 9D, dljC, 66C > j236A > j6C > j214B~D, 66B > 236B~A~B > 236A+D`
 
    _1841 dmg (1882)_ **|** **Midscreen**
 
-- Alternate throw route with better carry. `6B` adds damage, but also makes the route more difficult and requires delaying `236A`.
+   - Alternate throw route with better carry. `6B` adds damage, but also makes the route more difficult and requires delaying `236A`.
 
 4. `A+D~2, 66C(1) > j236B > 7/8D, icj2C, 2C > 236B > 6C > dl6B > 214A, 66B > 236A > 214B > 421A~D`
 
    _1972 dmg_ **|** **Corner**
 
-- Jump cancel has to be 7 or 8 to avoid awkward sideswaps. Don't D-cancel the `214A`; this both sets up a good timing for either `66B` or `66C`. D-cancel isn't required on the `8D` either.
+   - Jump cancel has to be 7 or 8 to avoid awkward sideswaps. Don't D-cancel the `214A`; this both sets up a good timing for either `66B` or `66C`. D-cancel isn't required on the `8D` either.
 
 5. `2AA > A+D~2, 5C > 236B > 6C > (dl6B >) 214A > 66B > 236A~B~A~C > 236A+D`
 
    _1447 dmg_ **|** **Anywhere**
 
-- For when the opponent gets hit by 1-2 `A` normals when going for TRM. The extra hits before the throw heavily prorate the combo so full throw routes won't work. Omit `6B` in corner and change ender accordingly.
+   - For when the opponent gets hit by 1-2 `A` normals when going for TRM. The extra hits before the throw heavily prorate the combo so full throw routes won't work. Omit `6B` in corner and change ender accordingly.
 
 ## Assault
 
@@ -459,7 +459,7 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 # Footnotes
 
 [^1]: i am only able to get _3465_ for whatever reason
-[^2]: _3459_ on `ABAC AD~` & _3435_ on `BAB AD~` for whatever reason
+[^2]: _3459_ on `ABAC AD~`; _3435_ on `BAB AD~`. for whatever reason
 [^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
 [^4]: i get _3571_ for whatever reason
 [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D` (`j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. i hope it's a typo; otherwise i'm definitely missing something)
