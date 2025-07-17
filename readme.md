@@ -254,9 +254,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 1. `2A/5A > 5C > 236A > 9D, icj2C, 2C/6C > 6A > FF~A~D, 66C > j236A > j6C > j214A~D, 66B > 236B~A~B > 236A+D`
 
-   _3394 dmg_ **|** cost: 1 GRD **|** ### Midscreen {#ffse-1}
-
-   ### Midscreen {#ffse-1} | _3394 dmg_ **|** cost: 1 GRD **|**
+   _3394 dmg_ **|** cost: 1 GRD **|** **Midscreen**
 
    - `FF~A` extension for damage and carry at the expense of some GRD
 
