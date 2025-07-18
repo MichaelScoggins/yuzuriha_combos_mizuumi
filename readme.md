@@ -464,7 +464,7 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 [^2]: _3459_ on `ABAC AD~`; _3435_ on `BAB AD~`. for whatever reason
 [^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
 [^4]: i get _3571_ for whatever reason
-[^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`. `j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
+[^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`--which misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
 [^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
 [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
 [^8]:
