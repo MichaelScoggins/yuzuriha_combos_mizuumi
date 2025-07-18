@@ -297,9 +297,9 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - Adaptation of the carry **punish** route for `66C(1)` starter. This is also your optimal confirm from `counterhit tk j236A` (_3794_).
 
-4. `66C(1) > j236B > j421C > 2FF, 2C > 236A > 9D, j.2[C], 5C > 236B > 6C > dl 6B > 214A > 66B > 236A~B~A~C > 236AD`
+4. `66C(1) > j236B > j421C > 2FF, 2C > 236A > 9D, j.2[C], 5C > 236B > 6C > dl 6B > 214A > 66B > 236A~B~A~C > 236AD`[^14]
 
-   _3462 dmg_ **|** **Midscreen**
+   _3462 dmg_[^14] **|** **Midscreen**
 
    - Utilizes `2FF` to pick up after `j.236B`, gives both high damage and excellent corner carry
 
@@ -467,16 +467,33 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
 [^8]:
     omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
-    including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup you do include them.
+    including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup if you do include them
 
 [^9]: i added the `AA ` to the front of this combo for immediate clarity
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
-[^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results of all variants:
+[^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results (based on a sample size of ~15 each) of all variants, sorted by dmg:
 
-> | flip   | ender1    | dmg1   | ender2     | dmg2   |
-> | ------ | --------- | ------ | ---------- | ------ |
-> | `214A` | `BAB AD~` | _3314_ | `ABAC AD~` | _3368_ |
-> | `214B` | `BAB AD~` | _3365_ | `ABAC AD~` | _3426_ |
+> | flip   | ender      | dmg    |
+> | ------ | ---------- | ------ |
+> | `214B` | `ABAC AD~` | _3426_ |
+> | `214A` | `ABAC AD~` | _3368_ |
+> | `214B` | `BAB AD~`  | _3365_ |
+> | `214A` | `BAB AD~`  | _3314_ |
 
-[^13]: you also want to delay `j6A`. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`
+[^13]: you also want to delay `j6A`, to most easily prevent awkward sidswitch. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
+[^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. all flip/ender variants by dmg:
+
+> | flip   | ender      | dmg     | sideswaps? |
+> | ------ | ---------- | ------- | ---------- |
+> | `214B` | `ABAC AD~` | _3462_  | yes        |
+> | `214B` | `BAB AD~`  | _3448_  | yes        |
+> | `214A` | `ABAC AD~` | ~_3440_ | no         |
+> | `214A` | `BAB AD~`  | ~_3440_ | no         |
+>
+> off sample size of about 50 successful executions. i can't figure out why but there's about 15-20 damage variation on the A flip variants, but the same number of hits yields many different values. but if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is all i come up with after performing these sequences using every method i know of (every combination of in stance, out of stance, with and without D cancel, D-pair, etc) several times. if there is a special method that yields more damage i would like to know what it is (not for the damage, but for whatever mechanicanism it would uncover). regardless, both flip variants of the combo are useful to know, depending on a given orientation to the corner
+> on reflection, i wonder if there is a way to stay on the same side during `2FF` after `j421C` (avoiding sideswap on `214A` variant). on later combos for example i was similarly perplexed and it turned out i could bounce them off the wall to get desired results. but i have not been able to replicate that in this combo
+
+---
+
+[^15]:
