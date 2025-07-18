@@ -476,23 +476,23 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
 [^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results (based on a sample size of ~15 each) of all variants, sorted by dmg:
 
-> | flip   | ender      | dmg    |
-> | ------ | ---------- | ------ |
-> | `214B` | `ABAC AD~` | _3426_ |
-> | `214A` | `ABAC AD~` | _3368_ |
-> | `214B` | `BAB AD~`  | _3365_ |
-> | `214A` | `BAB AD~`  | _3314_ |
+| flip   | ender      | dmg    |
+| ------ | ---------- | ------ |
+| `214B` | `ABAC AD~` | _3426_ |
+| `214A` | `ABAC AD~` | _3368_ |
+| `214B` | `BAB AD~`  | _3365_ |
+| `214A` | `BAB AD~`  | _3314_ |
 
 [^13]: you also want to delay `j6A`, to most easily prevent awkward sidswitch. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
 [^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. all flip/ender variants by dmg:
 
-> | flip   | ender      | dmg     | sideswaps? |
-> | ------ | ---------- | ------- | ---------- |
-> | `214B` | `ABAC AD~` | _3462_  | yes        |
-> | `214B` | `BAB AD~`  | _3448_  | yes        |
-> | `214A` | `ABAC AD~` | ~_3440_ | no         |
-> | `214A` | `BAB AD~`  | ~_3440_ | no         |
->
+| flip   | ender      | dmg     | sideswaps? |
+| ------ | ---------- | ------- | ---------- |
+| `214B` | `ABAC AD~` | _3462_  | yes        |
+| `214B` | `BAB AD~`  | _3448_  | yes        |
+| `214A` | `ABAC AD~` | ~_3440_ | no         |
+| `214A` | `BAB AD~`  | ~_3440_ | no         |
+
 > off sample size of about 50 successful executions. i can't figure out why but there's about 15-20 damage variation on the A flip variants, but the same number of hits yields many different values. but if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is all i come up with after performing these sequences using every method i know of (every combination of in stance, out of stance, with and without D cancel, D-pair, etc) several times. if there is a special method that yields more damage i would like to know what it is (not for the damage, but for whatever mechanicanism it would uncover). regardless, both flip variants of the combo are useful to know, depending on a given orientation to the corner
 > on reflection, i wonder if there is a way to stay on the same side during `2FF` after `j421C` (avoiding sideswap on `214A` variant). on later combos for example i was similarly perplexed and it turned out i could bounce them off the wall to get desired results. but i have not been able to replicate that in this combo
 
