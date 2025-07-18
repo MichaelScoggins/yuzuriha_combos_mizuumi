@@ -474,23 +474,6 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 [^9]: i added the `AA ` to the front of this combo for immediate clarity
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
-[^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results (based on a sample size of ~15 each) of all variants, sorted by dmg:
-
-| flip   | ender      | dmg    |
-| ------ | ---------- | ------ |
-| `214B` | `ABAC AD~` | _3426_ |
-| `214A` | `ABAC AD~` | _3368_ |
-| `214B` | `BAB AD~`  | _3365_ |
-| `214A` | `BAB AD~`  | _3314_ |
-
+[^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. `214B` variant nets _3426_ and `214A` nets _3368_ for me
 [^13]: you also want to delay `j6A`, to most easily prevent awkward sidswitch. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
-[^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. all flip/ender variants by dmg:
-
-| flip   | ender      | dmg     | sideswaps? |
-| ------ | ---------- | ------- | ---------- |
-| `214B` | `ABAC AD~` | _3462_  | yes        |
-| `214B` | `BAB AD~`  | _3448_  | yes        |
-| `214A` | `ABAC AD~` | ~_3440_ | no         |
-| `214A` | `BAB AD~`  | ~_3440_ | no         |
-
-if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong
+[^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. otherwise i get ~_3440 dmg_ with `214A`. if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is my conclusion
