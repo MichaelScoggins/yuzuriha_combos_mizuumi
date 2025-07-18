@@ -1,7 +1,5 @@
 ## yuzuriha combo list (UNI2)
 
-![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
-
 my markdown conversion of the terrific combo guide from
 
 > https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Yuzuriha/Combos
@@ -475,3 +473,5 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 
 ---
+
+![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
