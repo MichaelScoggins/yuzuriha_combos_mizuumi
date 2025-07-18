@@ -47,13 +47,13 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    _2974 dmg_ **|** **Anywhere**
 
-- Very consistent route for normal and `Assault` starters that works both **midscreen** and in **corner**. Also works from `throw` if you skip to `2C`. Use `214A` to stay on the same side of your opponent, `214B~D` to sideswap. _Adjust the ender if in_ **corner**.
+   - Very consistent route for normal and `Assault` starters that works both **midscreen** and in **corner**. Also works from `throw` if you skip to `2C`. Use `214A` to stay on the same side of your opponent, `214B~D` to sideswap. _Adjust the ender if in_ **corner**.
 
 2. `A+D~2, 5C > dl2C > 236B > 6C > dl6B > 214A~D/214B+D > dl66B > 236A~B~A~C > 236A+D`
 
    _1819 dmg_ **|** **Anywhere**
 
-- Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
+   - Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
 
 ## Standard Enders
 
