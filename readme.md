@@ -458,28 +458,25 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 
 # Footnotes
 
-> [^1]: i am only able to get _3465_ for whatever reason
-> [^2]: _3459_ on `ABAC AD~`; _3435_ on `BAB AD~`. for whatever reason
-> [^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
-> [^4]: i get _3571_ for whatever reason
-> [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`. `j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
-> [^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
-> [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
-> [^8]:
->
-> omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
-
+[^1]: i am only able to get _3465_ for whatever reason
+[^2]: _3459_ on `ABAC AD~`; _3435_ on `BAB AD~`. for whatever reason
+[^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
+[^4]: i get _3571_ for whatever reason
+[^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`. `j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
+[^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
+[^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
+[^8]:
+    omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
     including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup you do include them.
 
-> [^9]: i added the `AA ` to the front of this combo for immediate clarity
-> [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
-> [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
-> [^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results of all variants:
+[^9]: i added the `AA ` to the front of this combo for immediate clarity
+[^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
+[^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
+[^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results of all variants:
 
 > | flip   | ender1    | dmg1   | ender2     | dmg2   |
 > | ------ | --------- | ------ | ---------- | ------ |
 > | `214A` | `BAB AD~` | _3314_ | `ABAC AD~` | _3368_ |
 > | `214B` | `BAB AD~` | _3365_ | `ABAC AD~` | _3426_ |
 
-> [^13]: you also want to delay `j6A`. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`
-> [^14]:
+[^13]: you also want to delay `j6A`. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`
