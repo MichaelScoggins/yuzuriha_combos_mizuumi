@@ -496,6 +496,4 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 off sample size of about 50 successful executions. i can't figure out why but there's about 15-20 damage variation on the A flip variants, but the same number of hits yields many different values. but if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is all i come up with after performing these sequences using every method i know of (every combination of in stance, out of stance, with and without D cancel, D-pair, etc) several times. if there is a special method that yields more damage i would like to know what it is (not for the damage, but for whatever mechanicanism it would uncover). regardless, both flip variants of the combo are useful to know, depending on a given orientation to the corner
 on reflection, i wonder if there is a way to stay on the same side during `2FF` after `j421C` (avoiding sideswap on `214A` variant). on later combos for example i was similarly perplexed and it turned out i could bounce them off the wall to get desired results. but i have not been able to replicate that in this combo
 
----
-
 [^15]:
