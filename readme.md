@@ -1,16 +1,18 @@
-## ![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
+> ## ![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
 
-## yuzuriha combo list (UNI2)
+> # yuzuriha combo list (UNI2)
 
-my markdown conversion of the terrific combo guide from
+- my markdown conversion (with notes) of the terrific combo guide from
 
 > https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Yuzuriha/Combos
 
-while struggling to internalize the above guide for Yuzu in my attempt to become proficient with her, i made it easier to read (for myself at least)
+as a new Yuzu player completely overwhelmed with her skill floor but thinking her Iaido style is just too damned cool, i decided i would struggle to internalize the above guide for Yuzu in my attempt to become proficient with her, and i wanted to make it easier to read for myself
 
-this "project" is merely an exercise in improving readability as i attempt to internalize every combo in this impressive list. it is also going to reflect my (lack of) proficiency in markdown.
+this "project" is merely an exercise in improving readability as i attempt to internalize every combo in this impressive list. it is also going to reflect my (lack of) proficiency in markdown
 
-i figured it could help someone else, so here it is. it also serves as a nice reference for myself in the highly likely event that i end up the only human to benefit from it in any way. changes are mostly formatting/highlighting-related, but I also will ~~possibly~~ add notes for further clarity on anything which confuse~~s~~d me too much (i recently finished doing these combos and was a bit confused in many spots, and i am about to go through all of them again from the right side of the screen this time). i will use footnotes any time i explicitly add or change anything
+i figured it could help someone else, but it's mostly for personal reference/study. changes are mostly formatting/highlighting-related, but I also will ~~possibly~~ add notes for further clarity on anything which ~~confuses~~ confused me too much
+
+for context, i recently finished performing these combos from the left side of the screen and was confused by many things trying to perform them without video reference, and this project represents me going through all of them again from the right side of the screen this time. for clarification, "going through them" means being able to perform each one consistently, using the original damage value as my only reference to know if i am performing it correctly. i will use footnotes any time i explicitly add or change anything. i also am apparently going to notate a bunch of combos with additional tips for performing them and address the many damage discrepancies i am encountering
 
 if the original author/site of the combo guide has any problems or issues with this repo, i will immediately remove it
 
