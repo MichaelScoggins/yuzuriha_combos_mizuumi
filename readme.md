@@ -1,6 +1,6 @@
-![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
-
 ## yuzuriha combo list (UNI2)
+
+![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
 
 my markdown conversion of the terrific combo guide from
 
