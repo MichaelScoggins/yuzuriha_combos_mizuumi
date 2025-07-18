@@ -110,11 +110,9 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 > Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A` starters; `6X` starters) will also work on better starters (`B/C` normals; `236X starters`)
 
----
-
 # **Close Range Combos**
 
-"Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in pressure, defense, scrambles, and close range punish situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance pressure.
+"Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in **pressure**, defense, scrambles, and close range **punish** situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance **pressure**.
 
 ## Throw
 
@@ -209,7 +207,7 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 
    _3575 dmg_ **|** **Midscreen**
 
-   - Alternative, punish route with better carry for slightly less damage. Use `5C` to relaunch on `non-5C starters`. Delay the airstring as late into your jump as possible to give yourself more time for the `66B` link.
+   - Alternative, **punish** route with better carry for slightly less damage. Use `5C` to relaunch on `non-5C starters`. Delay the airstring as late into your jump as possible to give yourself more time for the `66B` link.
    - _Kiri ender: 3669 damage_. Not D-canceling `j214B` helps significantly with height management. `CH 236A` can do `2C > 5C > airstring > kiri ender` for _3681 damage_. `CH j236A` gets the same route into `66B 236A~B~6C 6A 236A+D` for _3684 dmg_.
 
 3. `5C > 236A > 9D, icj2C, j236A > j6C > j6B > j6A > 9D, jB > jC > 66B > 236B > 6C > 214A, 66B > 236A > 214B > 421A~D`
@@ -281,23 +279,23 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 ## 66C
 
-1. `66C(1) > j214X, 5C > 2C > 236A > w6C~D, jB > j2C > jC, 66B > 236B~A~B > 236A+D`
+1. `66C(1) > j214X, 5C > 2C > 236A > w6C~D, jB > j2C > jC, 66B > 236B~A~B > 236A+D`[^11]
 
    _3052 dmg_ **|** **Anywhere**
 
-   - Reliable confirm when `66C(1)` hits on attempted `66C(1) > j214X` resets in pressure
+   - Reliable confirm when `66C(1)` hits on attempted `66C(1) > j214X` resets in **pressure**
 
 2. `66C(1) > j236A > 9D, icj2C, 2C > 236B > 6C > dl6B > 214A/214B+D, 66B > 236A~B~A~C > 236A+D`
 
-   _3390 dmg_ **|** **Anywhere**
+   _3390 dmg_[^12] **|** **Anywhere**
 
-   - Same concepts as the `236A 66C(1)` `j236A` punish route, adapted for `66C(1) starter`.
+   - Same concepts as the `236A 66C(1) j236A` **punish** route, adapted for `66C(1) starter`.
 
-3. `66C(1) > j236B > j6C > j6A > dlj214B, 2C > 5C > dlj2C > jB > jC, 66B > 236A~B~A~C > 236A+D`
+3. `66C(1) > j236B > j6C > j6A > dlj214B, 2C > 5C > dlj2C > jB > jC, 66B > 236A~B~A~C > 236A+D`[^13]
 
    _3328 dmg_ **|** **Anywhere**
 
-   - Adaptation of the carry punish route for `66C(1)` starter. This is also your optimal confirm from `counterhit tk j236A` (_3794_).
+   - Adaptation of the carry **punish** route for `66C(1)` starter. This is also your optimal confirm from `counterhit tk j236A` (_3794_).
 
 4. `66C(1) > j236B > j421C > 2FF, 2C > 236A > 9D, j.2[C], 5C > 236B > 6C > dl 6B > 214A > 66B > 236A~B~A~C > 236AD`
 
@@ -404,13 +402,13 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 
    _4064/4156 dmg_ **|** 100 EXS **|** **Midscreen, Close**
 
-   - High damage midscreen `236C` combo using 421B sideswap to set up spacing for the midscreen punish route. First hit of `214A` whiffs here unless in corner, while `214BD` fully connects for additional damage.
+   - High damage midscreen `236C` combo using 421B sideswap to set up spacing for the midscreen **punish** route. First hit of `214A` whiffs here unless in corner, while `214BD` fully connects for additional damage.
 
 4. `236C > 6B > dl236A > 9D, icj2C, 66C(1) > j236A > j6B > j6C > dlj214A > 8, j.C > j.B, 66B > 236B~A~B > 236A+D`
 
    _4379 dmg_ **|** 100 EXS **|** **Midscreen, Close**
 
-   - Same side `236C` punish route for forward carry
+   - Same side `236C` **punish** route for forward carry
 
 5. `236C > 421C > j236A > 8D, icj2C, 2C > 236B > 6C > dl6B > 214A/214B+D, 66B > 236A~B~A~C > 236A+D`
 
@@ -460,16 +458,28 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 
 # Footnotes
 
-[^1]: i am only able to get _3465_ for whatever reason
-[^2]: _3459_ on `ABAC AD~`; _3435_ on `BAB AD~`. for whatever reason
-[^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
-[^4]: i get _3571_ for whatever reason
-[^5]: i can only get this combo to work with `j214B~D`, not `j214A~D` (`j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. i hope it's a typo; otherwise i'm definitely missing something)
-[^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
-[^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
-[^8]:
-    omitting parentheses requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
-    including the parentheses nets _3645-3653_. the `66C` is a tight pickup you do include them.
+> [^1]: i am only able to get _3465_ for whatever reason
+> [^2]: _3459_ on `ABAC AD~`; _3435_ on `BAB AD~`. for whatever reason
+> [^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
+> [^4]: i get _3571_ for whatever reason
+> [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`. `j214A~D` misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
+> [^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
+> [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
+> [^8]:
+>
+> omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
 
-[^9]: i added the `AA ` to the front of this combo for immediate clarity
-[^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
+    including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup you do include them.
+
+> [^9]: i added the `AA ` to the front of this combo for immediate clarity
+> [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
+> [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
+> [^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. here are my results of all variants:
+
+> | flip   | ender1    | dmg1   | ender2     | dmg2   |
+> | ------ | --------- | ------ | ---------- | ------ |
+> | `214A` | `BAB AD~` | _3314_ | `ABAC AD~` | _3368_ |
+> | `214B` | `BAB AD~` | _3365_ | `ABAC AD~` | _3426_ |
+
+> [^13]: you also want to delay `j6A`. and you want to use the same rhythm described in [^8] specifically about the `2C > 5C > j2C` segment, or else you will whiff the `236A` followup to `66B`
+> [^14]:
