@@ -1,3 +1,5 @@
+![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
+
 ## yuzuriha combo list (UNI2)
 
 my markdown conversion of the terrific combo guide from
@@ -274,7 +276,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    _3440 dmg_ **|** 1 GRD **|** 81 Opp: 45 **|** **Midscreen**
 
-   - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.
+   - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.[^10]
    - `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.[^10]
 
 ## 66C
@@ -471,3 +473,5 @@ _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
 
 [^9]: i added the `AA ` to the front of this combo for immediate clarity
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
+
+---
