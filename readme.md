@@ -36,6 +36,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 >   - [66C](#66c)
 > - [**Far Range Combos**](#far-range-combos)
 >   - [Stance](#stance)
+>   - [Stance Supers](#stance-super-confirms)
 >   - [236C](#236c)
 >   - [214X/j214X](#214xj214x)
 >   - [Air-to-Air](#air-to-air)
@@ -545,12 +546,12 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    _3345 dmg_ **|** **Midscreen**
 
-   - Optimized midrange damage. Adding `j421B` puts you back on the same side, but makes the combo more difficult. Omit `2C` if starting with `6A` or `6C`.
-   - _Kiri ender: 3304 damage_. Very difficult, requires very clean height management beforehand.
+   - Optimized midrange damage. Adding `j421B` puts you back on the same side, but makes the combo more difficult[^16]. Omit `2C` if starting with `6A` or `6C`.
+   - _Kiri ender: 3304 damage_. Very difficult, requires very clean height management beforehand.[^17]
 
 ---
 
-4. > `236B~D, dl236A > 421B > dl6A > 214B+D, `
+4. > `236B~D, dl236A > 421B > dl6A > 214B+D, `[^18]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
@@ -578,7 +579,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    _2739 dmg_ **|** **Midscreen**
 
-   - Corner carry routes that cover nearly the entire stage. Especially nice on far range `236B` hits when your **back is near (but not in) the corner**.
+   - Corner carry routes that cover nearly the entire stage. Especially nice on far range `236B` hits when your **back is near (but not in) the corner**.[^19]
 
 ---
 
@@ -601,19 +602,33 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A > 214B > 421A~D`
 
-   _3490 dmg_ **|** **Corner**
+   _3490 dmg_[^20] **|** **Corner**
 
    - Midrange `236B` hits in corner can **confirm** into `66C(1)` for high damage. Use `236A` instead of `236B` later in the combo to avoid SMP. Also works from `6B`, but not `6C`.
 
 ---
 
-8. > `236B~D, 236C > 421A > 236B > 214B+D, `
+8. > `236B, 421B > 6A > FF~A~D, `[^21]
+
+   > `2C > 236A > dl9D, jB > jC, `
+
+   > `66C > j236A > j6B > j214A, `
+
+   > `66B > 236A > 214B > 421A~D`
+
+   _3296 dmg_ **|** 1 GRD **|** **Back to Corner**
+
+   - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
+
+## Stance Super Confirms[^22]
+
+9. > `236B~D, 236C > 421A > 236B > 214B+D, `
 
    > `2C > 5C > dlj2C > jB > jC, `
 
    > `66B > 236A~B~A~C > 236AD`
 
-   _3392 dmg_ **|** **Back to Corner**
+   _3392 dmg_[^23] **|** **Back to Corner**
 
    > `236B~D, 236C > 421A > 236B~D, `
 
@@ -625,29 +640,19 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    _3341 dmg_ **|** 100 EXS **|** **Back to Corner**
 
-   - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.
+   - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.[^24]
 
-9. > `236B~D, 236C > 421B > dl236A > w6C~D, `
+10. > `236B~D, 236C > 421B > dl236A > w6C~D, `
 
-   > `j2C > jB > jC, 66C > j236A > j6C > j214B~D, `
+> `j2C > jB > jC, `[^25]
 
-   > `66B > 236A~B~A~C > 236AD`
+> `66C > j236A > j6C > j214B~D, `
 
-   _3470 dmg_ **|** 100 EXS **|** **Back to Corner**
+> `66B > 236A~B~A~C > 236AD`
 
-   - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
+_3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
 
----
-
-10. > `236B, 421B > 6A > FF~A~D, 2C > 236A > dl9D, jB > jC, `
-
-    > `66C > j236A > j6B > j214A, `
-
-    > `66B > 236A > 214B > 421A~D`
-
-    _3296 dmg_ **|** 1 GRD **|** **Back to Corner**
-
-    - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
+- Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
 ## 236C
 
@@ -810,3 +815,14 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 [^13]: you also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you will whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
 [^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is my conclusion
 [^15]: ender won't work if combo ends up in corner
+[^16]: it doesn't really make combo more difficult, once you get the basic rhythm
+[^17]: honestly it isn't that hard to hit combo, nor kiri ender. however, _kiri ender_ won't work if combo ends up in corner
+[^18]: it perplexes me that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
+
+[19^]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
+[^20]: i get _3524 dmg_, for whatever reason
+[^21]: where to start... this combo as written does not seem to be possible. however, i found a way to make it work by simply changing `FF~A~D` to `2FF`, which makes it work perfectly and for more damage... it also does more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
+[^22]: i added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
+[^23]: _kiri ender: 3420 dmg_
+[^24]: first combo is easier and does more damage. haven't yet found utility for using second combo over it. even the subsequent combo is better than both
+[^25]: use `jB > j2C > jC` sequence instead. `j2C > jB > jC` makes it much harder than it has to be for almost no reward. input super pretty quickly after wall bounce and it's a pretty easy combo with great damage at range. _kiri ender: 3485 dmg_ without last hit (air tech)
