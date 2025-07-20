@@ -818,8 +818,7 @@ _3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
 [^16]: it doesn't really make combo more difficult, once you get the basic rhythm
 [^17]: honestly it isn't that hard to hit combo, nor kiri ender. however, _kiri ender_ won't work if combo ends up in corner
 [^18]: it perplexes me that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
-
-[19^]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
+[^19]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
 [^20]: i get _3524 dmg_, for whatever reason
 [^21]: where to start... this combo as written does not seem to be possible. however, i found a way to make it work by simply changing `FF~A~D` to `2FF`, which makes it work perfectly and for more damage... it also does more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
 [^22]: i added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
