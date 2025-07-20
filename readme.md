@@ -78,9 +78,12 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    - `66B` is sometimes replaced by some portion of the `4C 2C 4B` sequence, at minimum incorporating `2C`.
    ***
 3. `66B/2C > 236B > 6C > dl6B > dl6A > 236A+D` **Midscreen**
+
    - "Kiri ender". Longer delay on `6B`, then a short delay on `6A` to push the opponent forward enough for `236AD` to connect. More damage than repeated `236X` slashes, but also much more precise and strict on proration/height. Unlikely to work on routes that incur SMP or if the opponent is relatively high up at the `236B` hit. Omitting `6C` or `6B` can sometimes make the ender possible/more consistent for some damage lost.
    - Combos where this ender is possible will have a footnote with damage and any important details.
+
    ***
+
 4. `66C` **Corner**
    - Basic corner knockdown ender. Hard knockdown if hit low enough, meaning the opponent is unable to air tech forward. Leaves you slightly plus at `5B` range. Generally not used midscreen because it pushes the opponent much further away than `66B` without the damage of the `236X enders`, but in the corner the resulting spacing is much closer. Landing after leaves Yuzuriha around +8 at `5B` range, or she can cancel into `j421A > j214A~D` or `j214C`.
 
@@ -132,8 +135,6 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    - Low health `CVO` ender, requires full meter before `CVO`.
 
----
-
 > Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C` normals; `236X starters`)
 
 # **Close Range Combos**
@@ -142,7 +143,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 ## Throw
 
-## Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
+Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
 
 1. > `A+D~2, `
 
