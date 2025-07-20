@@ -644,15 +644,15 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 10. > `236B~D, 236C > 421B > dl236A > w6C~D, `
 
-> `j2C > jB > jC, `[^25]
+    > `j2C > jB > jC, `[^25]
 
-> `66C > j236A > j6C > j214B~D, `
+    > `66C > j236A > j6C > j214B~D, `
 
-> `66B > 236A~B~A~C > 236AD`
+    > `66B > 236A~B~A~C > 236AD`
 
-_3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
+    _3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
 
-- Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
+    - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
 ## 236C
 
