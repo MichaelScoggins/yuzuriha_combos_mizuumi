@@ -660,17 +660,17 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 1. > `236C > 421B > 2FF > 2C > 236A > 9D > j2[C] > `
 
-   > `66C(1) > j236A > j6B > dl j6C > j214A > 8, jC > jB, `
+   > `66C(1) > j236A > j6B > dl j6C > j214A > 8, jC > jB, `[^26]
 
    > `66B > 236B~A~B > 236AD`
 
-   _4134 dmg_ **|** 100 EXS, 1 GRD **|** **Midscreen**
+   _4134 dmg_[^26] **|** 100 EXS, 1 GRD **|** **Midscreen**
 
    - Universal `236C` **confirm** for varying ranges. Sideswaps from about 2/3rds screen and closer.
 
 ---
 
-2. > `236C > 421B > dl6C > dl236A > 9D, icj2C, `
+2. > `236C > 421B > dl6C > dl236A > 9D, icj2C, `[^27]
 
    > `66C(1) > j236A > j6B > j6C > dlj214A > 8, j.C > j.B, `
 
@@ -687,11 +687,11 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66C(1) > j236A > 9D, icj2C, `
 
-   > `5C (> dl2C) > 236B > 6C > dl6B > 214A/214B+D, `
+   > `5C (> dl2C) > 236B > 6C > dl6B > 214A/214B+D, `[^28]
 
    > `66B > 236A~B~A~C > 236A+D`
 
-   _4064/4156 dmg_ **|** 100 EXS **|** **Midscreen, Close**
+   _4064[^28]/4156 dmg_ **|** 100 EXS **|** **Midscreen, Close**
 
    - High damage midscreen `236C` combo using `421B` sideswap to set up spacing for the midscreen **punish** route. First hit of `214A` whiffs here unless in corner, while `214BD` fully connects for additional damage.
 
@@ -715,9 +715,9 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A~B~A~C > 236A+D`
 
-   _4029 dmg_ **|** 100 EXS **|** **Midscreen, Far**
+   _4029 dmg_[^29] **|** 100 EXS **|** **Midscreen, Far**
 
-   - Far range `236C` conversion BNB via `421C j236A`. `421B` routes are more difficult here because the opponent passes over Yuzu on the teleport, but `421C` body blocks the opponent to set up a consistent `j236A` hit.
+   - Far range `236C` conversion BNB via `421C j236A`. `421B` routes are more difficult here[^29] because the opponent passes over Yuzu on the teleport, but `421C` body blocks the opponent to set up a consistent `j236A` hit.
 
 ---
 
@@ -725,7 +725,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `tk j236A > j6B > j6C > j6A > 9D, j.B > j.C, `
 
-   > `66B > 236B > 6C > dl6B > 214A, `
+   > `66B > 236B > 6C > dl6B > 214A, `[^30]
 
    > `66B > 236A > 214B > 421A`
 
@@ -802,26 +802,31 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 [^3]: only use when distanced at about one-and-a-half yuzu widths. pretty spacing dependent, with a weird delay, for about 30 extra damage (above combo does _3410_ on `BAB AD~`)--but can help foster a confirm when unsure whether you want to follow up `AA 5C` with a jump
 [^4]: i get _3571_ for whatever reason
 [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`--which misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
-[^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. there are several alternative routes, so i will just avoid this one for now
+[^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. several alternative, similar routes, so i'll just avoid this one for now
 [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
 [^8]:
-    omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. you want to delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, you want to do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and you can still easily miss it if not managed up to that point well enough.
+    omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and still easily misses if not managed up to that point well enough.
     including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup if you do include them
 
 [^9]: i added the `antiair ` to the front of this combo for immediate clarity
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
 [^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. `214B` variant nets _3426_ and `214A` nets _3368_ for me
-[^13]: you also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you will whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
+[^13]: you'll also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you'll whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
 [^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is my conclusion
 [^15]: ender won't work if combo ends up in corner
 [^16]: it doesn't really make combo more difficult, once you get the basic rhythm
 [^17]: honestly it isn't that hard to hit combo, nor kiri ender. however, _kiri ender_ won't work if combo ends up in corner
-[^18]: it perplexes me that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
+[^18]: it's perplexing that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
 [^19]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
 [^20]: i get _3524 dmg_, for whatever reason
-[^21]: where to start... this combo as written does not seem to be possible. however, i found a way to make it work by simply changing `FF~A~D` to `2FF`, which makes it work perfectly and for more damage... it also does more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
-[^22]: i added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
+[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what og author meant?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
+[^22]: added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
 [^23]: _kiri ender: 3420 dmg_
 [^24]: first combo is easier and does more damage. haven't yet found utility for using second combo over it. even the subsequent combo is better than both
 [^25]: use `jB > j2C > jC` sequence instead. `j2C > jB > jC` makes it much harder than it has to be for almost no reward. input super pretty quickly after wall bounce and it's a pretty easy combo with great damage at range. _kiri ender: 3485 dmg_ without last hit (air tech)
+[^26]: no matter how i perform this combo, i get _4118_. swap out the middle portion of the combo with `2C > 5C > dlj2C > jB > jC, 66C > j236A > j6C > j214B, ` for _4103_ and a much easier time
+[^27]: not sure why to ever do the combo listed prior instead of this one, which does more damage for no cost, and virtually equal difficulty
+[^28]: `214B+D` sideswaps. _4118_ for sameside variant
+[^29]: stay in stance for first part. `214B+D` sideswaps (returning you to same side as when combo started; so technically doesn't sideswap), and does less damage, at _4021_. same-side (technically sideswap) variant does _4086_. i can't understand how `421B` routes are "more difficult here." if anything they are easier (especially staying on the same side), and not only that, but the listed combo here is more difficult, and does less damage. still a nice combo though, especially if you actually want to sideswap at range for some reason
+[^30]: also should delay `214A`, in order to land entire ender. does more damage if you avoid stance on enders. but recommended to stay in stance for first part
