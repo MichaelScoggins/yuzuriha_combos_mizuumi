@@ -797,7 +797,11 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 ### _good luck, future iaido master!_
 
+---
+
 ![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png) _happy practicing!_
+
+---
 
 # Footnotes
 
