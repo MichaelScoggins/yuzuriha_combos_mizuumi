@@ -6,7 +6,7 @@
 
 > https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Yuzuriha/Combos
 
-as a new Yuzu player completely overwhelmed with her skill floor but thinking her Iaido style is just too damned cool, i decided i would struggle to internalize the above guide for Yuzu in my attempt to become proficient with her, and i wanted to make it easier to read for myself
+as a new Yuzu player completely overwhelmed with her skill floor but thinking her iaido style is just too damned cool, i decided i would struggle to internalize the above guide for Yuzu in my attempt to become proficient with her, and i wanted to make it easier to read for myself
 
 this "project" is merely an exercise in improving readability as i attempt to internalize every combo in this impressive list. it is also going to reflect my (lack of) proficiency in markdown
 
@@ -641,6 +641,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
    _3341 dmg_ **|** 100 EXS **|** **Back to Corner**
 
    - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.[^24]
+
+   ***
 
 10. > `236B~D, 236C > 421B > dl236A > w6C~D, `
 
