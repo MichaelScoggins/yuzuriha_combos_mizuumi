@@ -795,6 +795,10 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
 
+# good luck, future iaido master!
+
+![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png) happy practicing!
+
 # Footnotes
 
 [^1]: i am only able to get _3465_ for whatever reason
@@ -830,7 +834,3 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 [^28]: `214B+D` sideswaps. _4118_ for sameside variant
 [^29]: stay in stance for first part. `214B+D` sideswaps (returning you to same side as when combo started; so technically doesn't sideswap), and does less damage, at _4021_. same-side (technically sideswap) variant does _4086_. i can't understand how `421B` routes are "more difficult here." if anything they are easier (especially staying on the same side), and not only that, but the listed combo here is more difficult, and does less damage. still a nice combo though, especially if you actually want to sideswap at range for some reason
 [^30]: also should delay `214A`, in order to land entire ender. does more damage if you avoid stance on enders. but recommended to stay in stance for first part
-
-# Happy Practicing!
-
-![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png) master of iaido
