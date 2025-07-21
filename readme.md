@@ -795,7 +795,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
 
-# good luck, future iaido master!
+### good luck, future iaido master!
 
 ![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png) happy practicing!
 
