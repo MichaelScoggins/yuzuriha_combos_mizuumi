@@ -1,4 +1,4 @@
-> ## ![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
+![Happy Practicing!](https://static.wikia.nocookie.net/in-birth/images/3/3f/Yuzuriha_Sougetsu_%28BlazBlue_Cross_Tag_Battle%2C_Character_Select_Artwork%29.png/revision/latest/scale-to-width-down/1000?cb=20190525064008)
 
 > # yuzuriha combo list (UNI2)
 
@@ -20,7 +20,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 ---
 
-> **Combo Sections**
+> ### [_**Combo Sections**_](#combo-sections)
 >
 > - [**Starter Combos**](#starter-combos)
 > - [_Standard Enders_](#standard-enders)
@@ -787,21 +787,23 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 ---
 
-2. > `jB > j6C > j421C > 2FF, 2C > 236A > 9D > j2[C], `
+[2.](#combo-sections)
 
-   > `5C > 236B > 6C > dl 6B > 214A, `
+> `jB > j6C > j421C > 2FF, 2C > 236A > 9D > j2[C], `
 
-   > `66B > 236A~B~A~C > 236AD`
+> `5C > 236B > 6C > dl 6B > 214A, `
 
-   _3238 dmg_ **|** 1 GRD **|** **Midscreen**
+> `66B > 236A~B~A~C > 236AD`
 
-   - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
+_3238 dmg_ **|** 1 GRD **|** **Midscreen**
 
-### _good luck, future iaido master!_
+- "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
+
+_good luck, future iaido master!_
 
 ---
 
-![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png) _happy practicing!_
+[![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png)](#combo-sections)
 
 ---
 
