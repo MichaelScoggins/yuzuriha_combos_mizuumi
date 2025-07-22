@@ -20,7 +20,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 ---
 
-> ### [_**Combo Sections**_](#combo-sections)
+> # [_**Combo Sections**_](#combo-sections)
 >
 > - [**Starter Combos**](#starter-combos)
 > - [_Standard Enders_](#standard-enders)
@@ -44,7 +44,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 ---
 
-## Starter Combos
+### Starter Combos
 
 1. > `2A > 5C > 2C > 236B > 6C > 6B > 214A~D/214B+D > `
 
@@ -66,7 +66,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    - Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
 
-## Standard Enders
+### Standard Enders
 
 1. `66B` **Midscreen**
    - Basic midscreen knockdown option. Useful if you'd rather keep the opponent close than get some extra damage and meter. Knockdown depends on height/proration, may still allow air tech.
@@ -94,7 +94,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    - Damage ender for the corner. Nets a left-right mixup if the opponent airtechs forward. Can add `236B` beforehand for slightly more damage but no mixup.
    - Some corner routes pull the opponent out of the corner. In this case, go for the midscreen ender instead.
 
-## Metered Enders
+### Metered Enders
 
 1. `66B > 236B~A~B > 236A+D > 236C/214C/IW`
 
@@ -138,11 +138,73 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 > Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C` normals; `236X starters`)
 
-# **Close Range Combos**
+## 214X/j214X
+
+1. > `214X~D/j214X~D, `
+
+   > `2A > 5C > j2C > jB > jC, `
+
+   > `66B > 236A > dl 9D, j.B > j.C, `
+
+   > `66B > 236B~A~B > 236AD`
+
+   _3219 dmg_ **|** **Anywhere**
+
+   - Most reliable **confirm** for Yae Ichirin starters when exiting stance. `214X` doesn't give you enough frame advantage to **confirm** with anything better, and `j214X` optimizations are height dependent.
+
+---
+
+2. > `j214X(~D, 66B) > 236A > 9D, icj2C, `
+
+   > `2C > 5C > j2C > jB > jC, `
+
+   > `66B > 236B~A~B > 236AD`
+
+   _3275 dmg_ **|** **Midscreen**
+
+   - Better **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
+
+---
+
+3. > `j214X(~D, 66B) > 236A > 9D, icj2C, `
+
+   > `5C > j2C > jB > jC, `
+
+   > `66B > 236B > 6C > 214B > 421A`
+
+   _3447 dmg_ **|** **Corner**
+
+   - Better corner **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
+
+## Air-to-Air
+
+1. > `jB > j6C > j236B > dl j214A, `
+
+   > `2C > 5C > j2C > jB > jC, `
+
+   > `66B > 236A~B~A~C > 236AD`
+
+   _3045 dmg_ **|** **Midscreen**
+
+   - Standard air to air `jB` hit combo. If you can get in range to avoid distance proration, the combo does _3167_
+
+---
+
+2. > `jB > j6C > j421C > 2FF, 2C > 236A > 9D > j2[C], `
+
+   > `5C > 236B > 6C > dl 6B > 214A, `
+
+   > `66B > 236A~B~A~C > 236AD`
+
+   _3238 dmg_ **|** 1 GRD **|** **Midscreen**
+
+   - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
+
+## **Close Range Combos**
 
 "Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in **pressure**, defense, scrambles, and close range **punish** situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance **pressure**.
 
-## Throw
+### Throw
 
 Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
 
@@ -203,7 +265,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - For when the opponent gets hit by 1-2 `A` normals when going for TRM. The extra hits before the throw heavily prorate the combo so full throw routes won't work. Omit `6B` in corner and change ender accordingly.
 
-## Assault
+### Assault
 
 1. > `6D, j2C, 2A > 5C > 2C > 236A > 9D, dljC, `
 
@@ -239,7 +301,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - Adding `jB` after `236A` does slightly more damage but requires a delayed jump after `236A`.
 
-## A starters
+### A starters
 
 ---
 
@@ -279,7 +341,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - Corner TK route, sideswaps then crosses over the opponent to put them back in corner. Land and rejump into the `j236A`. Omit `6C` for `2AA` or `5A` starters or if **confirm**ed into `2C`.
 
-## B/C Starters
+### B/C Starters
 
 Also includes close range `6X` and `236X` starters. `2C` can follow these (and the above) combos by **confirm**ing into `236A`, or potentially `6B/6C > dl236A` if close enough or in corner.
 
@@ -324,7 +386,7 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 
    - New patch TK routing making use of Yuzuriha's extra jump cancel in combo. Does high damage and builds 1 full bar of meter. The combo can build 100 meter with the starters: `5B (5/2C)`, `4C`, `2C`, `4B` and `CH 2B (5/2C)`.
 
-## 2C Launch & 5C Anti-Air
+### 2C Launch & 5C Anti-Air
 
 Starters that leave the opponent high off the ground can't easily route into `236A 9D icj2C`, so they use a different set of combos.
 
@@ -394,7 +456,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - Stronger corner `2C 5C` **confirm**
 
-## Force Function Starter/Extension
+### Force Function Starter/Extension
 
 1. > `2A/5A > 5C > 236A > 9D, icj2C, `
 
@@ -447,7 +509,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
    - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.[^10]
    - `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.[^10]
 
-## 66C
+### 66C
 
 1. > `66C(1) > j214X, `
 
@@ -505,11 +567,11 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - `66C` **confirm** for both/2nd only hit
 
-# **Far Range Combos**
+## **Far Range Combos**
 
 Distance proration and variable number of `214X/j214X` hits may cause damage to vary more from values given here. `236X` base damage also decreases with marks used in stance, so hits later in stance will do less damage.
 
-## Stance
+### Stance
 
 1. > `236B~D, 236A/236B > dl214B~D, `
 
@@ -620,7 +682,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
 
-## Stance Super Confirms[^22]
+### Stance Super Confirms[^22]
 
 9. > `236B~D, 236C > 421A > 236B > 214B+D, `
 
@@ -656,7 +718,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
     - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
-## 236C
+### 236C
 
 `236C` is your most damaging starter, works at almost any range, and is faster than some of your best meterless starters. Especially good if starting from 200 so that you can rebuild some meter midcombo, with an additional +25% refund if in Vorpal. `j236C` can follow the `236C` teleport confirms and corner route by utilizing `j421C > 236A, j421C > 2FF` and `j421B > j236A` as appropriate.
 
@@ -734,70 +796,6 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
    _4539 dmg_ **|** 100 EXS **|** **Corner, Close**
 
    - Corner TK routing optimization for `236C` starter. `421B` not only moves you into position if starting further away, it makes this route do more damage at close range than skipping to `236A`. Yes, really.
-
-## 214X/j214X
-
-1. > `214X~D/j214X~D, `
-
-   > `2A > 5C > j2C > jB > jC, `
-
-   > `66B > 236A > dl 9D, j.B > j.C, `
-
-   > `66B > 236B~A~B > 236AD`
-
-   _3219 dmg_ **|** **Anywhere**
-
-   - Most reliable **confirm** for Yae Ichirin starters when exiting stance. `214X` doesn't give you enough frame advantage to **confirm** with anything better, and `j214X` optimizations are height dependent.
-
----
-
-2. > `j214X(~D, 66B) > 236A > 9D, icj2C, `
-
-   > `2C > 5C > j2C > jB > jC, `
-
-   > `66B > 236B~A~B > 236AD`
-
-   _3275 dmg_ **|** **Midscreen**
-
-   - Better **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
-
----
-
-3. > `j214X(~D, 66B) > 236A > 9D, icj2C, `
-
-   > `5C > j2C > jB > jC, `
-
-   > `66B > 236B > 6C > 214B > 421A`
-
-   _3447 dmg_ **|** **Corner**
-
-   - Better corner **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
-
-# Air-to-Air
-
-1. > `jB > j6C > j236B > dl j214A, `
-
-   > `2C > 5C > j2C > jB > jC, `
-
-   > `66B > 236A~B~A~C > 236AD`
-
-   _3045 dmg_ **|** **Midscreen**
-
-   - Standard air to air `jB` hit combo. If you can get in range to avoid distance proration, the combo does _3167_
-
----
-
-[2.](#combo-sections)
-
-> `jB > j6C > j421C > 2FF, 2C > 236A > 9D > j2[C], `
-
-> `5C > 236B > 6C > dl 6B > 214A, `
-
-> `66B > 236A~B~A~C > 236AD`
-
-_3238 dmg_ **|** 1 GRD **|** **Midscreen**
-
-- "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
 
 _good luck, future iaido master!_
 
