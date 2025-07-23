@@ -44,7 +44,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 >   - [Air-to-Air](#air-to-air)
 > - [Footnotes](#footnotes)
 
-## Standard Enders
+## _Standard Enders_
 
 1. `66B` **Midscreen**
 
@@ -78,7 +78,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    - Some corner routes pull the opponent out of the corner. In this case, go for the midscreen ender instead.
    ***
 
-## Metered Enders
+## _Metered Enders_
 
 1. `66B > 236B~A~B > 236A+D > 236C/214C/IW`
 
@@ -124,7 +124,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 > Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C` normals; `236X starters`)
 
-## Starter Combos
+## _Starter Combos_
 
 1. > `2A > 5C > 2C > 236B > 6C > 6B > 214A~D/214B+D > `
 
@@ -148,7 +148,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    ***
 
-## 214X/j214X
+## _214X/j214X_
 
 1. > `214X~D/j214X~D, `
 
@@ -188,7 +188,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    ***
 
-## Air-to-Air
+## _Air-to-Air_
 
 1. > `jB > j6C > j236B > dl j214A, `
 
@@ -214,11 +214,11 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    ***
 
-## **Close Range Combos**
+## _**Close Range Combos**_
 
 "Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in **pressure**, defense, scrambles, and close range **punish** situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance **pressure**.
 
-### _Throw_
+## _Throw_
 
 Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
 
