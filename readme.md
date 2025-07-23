@@ -76,6 +76,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 5. `66B > 236A > 214B > 421A~D` **Corner**
    - Damage ender for the corner. Nets a left-right mixup if the opponent airtechs forward. Can add `236B` beforehand for slightly more damage but no mixup.
    - Some corner routes pull the opponent out of the corner. In this case, go for the midscreen ender instead.
+   ***
 
 ## Metered Enders
 
@@ -119,6 +120,8 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    - Low health `CVO` ender, requires full meter before `CVO`.
 
+   ***
+
 > Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C` normals; `236X starters`)
 
 ## Starter Combos
@@ -142,6 +145,8 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    _1819 dmg_ **|** **Anywhere**
 
    - Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
+
+   ***
 
 ## 214X/j214X
 
@@ -181,6 +186,8 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    - Better corner **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
 
+   ***
+
 ## Air-to-Air
 
 1. > `jB > j6C > j236B > dl j214A, `
@@ -204,6 +211,8 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    _3238 dmg_ **|** 1 GRD **|** **Midscreen**
 
    - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
+
+   ***
 
 ## **Close Range Combos**
 
