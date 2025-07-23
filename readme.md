@@ -218,7 +218,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 "Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in **pressure**, defense, scrambles, and close range **punish** situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance **pressure**.
 
-### Throw
+### _Throw_
 
 Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
 
@@ -281,7 +281,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    ***
 
-### Assault
+### _Assault_
 
 1. > `6D, j2C, 2A > 5C > 2C > 236A > 9D, dljC, `
 
@@ -319,7 +319,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    ***
 
-### A starters
+### _A starters_
 
 1. > `2A/5A > 5C/2C > 236A > 9D, icj2C, `
 
@@ -359,7 +359,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    ***
 
-### B/C Starters
+### _B/C Starters_
 
 Also includes close range `6X` and `236X` starters. `2C` can follow these (and the above) combos by **confirm**ing into `236A`, or potentially `6B/6C > dl236A` if close enough or in corner.
 
@@ -406,7 +406,7 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 
    ***
 
-### 2C Launch & 5C Anti-Air
+### _2C Launch & 5C Anti-Air_
 
 Starters that leave the opponent high off the ground can't easily route into `236A 9D icj2C`, so they use a different set of combos.
 
@@ -478,7 +478,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-### Force Function Starter/Extension
+### _Force Function Starter/Extension_
 
 1. > `2A/5A > 5C > 236A > 9D, icj2C, `
 
@@ -533,7 +533,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-### 66C
+### _66C_
 
 1. > `66C(1) > j214X, `
 
@@ -595,7 +595,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 Distance proration and variable number of `214X/j214X` hits may cause damage to vary more from values given here. `236X` base damage also decreases with marks used in stance, so hits later in stance will do less damage.
 
-### Stance
+### _Stance_
 
 1. > `236B~D, 236A/236B > dl214B~D, `
 
@@ -708,7 +708,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    ***
 
-### Stance Super Confirms[^22]
+### _Stance Super Confirms[^22]_
 
 9. > `236B~D, 236C > 421A > 236B > 214B+D, `
 
@@ -746,7 +746,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
     ***
 
-### 236C
+### _236C_
 
 `236C` is your most damaging starter, works at almost any range, and is faster than some of your best meterless starters. Especially good if starting from 200 so that you can rebuild some meter midcombo, with an additional +25% refund if in Vorpal. `j236C` can follow the `236C` teleport confirms and corner route by utilizing `j421C > 236A, j421C > 2FF` and `j421B > j236A` as appropriate.
 
