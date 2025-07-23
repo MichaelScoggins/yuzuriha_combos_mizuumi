@@ -16,15 +16,17 @@ for context, i recently finished performing these combos from the left side of t
 
 if the original author/site of the combo guide has any problems or issues with this repo, i will immediately remove it
 
-it would seem there is a section on the original guide "Normals" that is empty? so i did not include it. i think they started a "far range combos" section with intent of including both stance starters and normal starters (presumably 6X) but never got around to the latter :disappointed:
+it would seem there is a section on the original guide "Normals" that is empty? so i did not include it. i think they started a "far range combos" section with intent of including both stance starters and normal starters (presumably 6X) but never got around to the latter :disappointed:. i've also reordered the sections a bit
 
 ---
 
 > # [_**Combo Sections**_](#combo-sections)
 >
-> - [**Starter Combos**](#starter-combos)
-> - [_Standard Enders_](#standard-enders)
-> - [_Metered Enders_](#metered-enders)
+> - [Standard Enders](#standard-enders)
+> - [Metered Enders](#metered-enders)
+> - [Starter Combos](#starter-combos)
+> - [214X/j214X](#214xj214x)
+> - [Air-to-Air](#air-to-air)
 >
 > - [**Close Range Combos**](#close-range-combos)
 >   - [Throw](#throw)
@@ -44,29 +46,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 ---
 
-### Starter Combos
-
-1. > `2A > 5C > 2C > 236B > 6C > 6B > 214A~D/214B+D > `
-
-   > `2C > 236A~B~A~C > 236A+D`
-
-   _2974 dmg_ **|** **Anywhere**
-
-   - Very consistent route for normal and `Assault` starters that works both **midscreen** and in **corner**. Also works from `throw` if you skip to `2C`. Use `214A` to stay on the same side of your opponent, `214B~D` to sideswap. _Adjust the ender if in_ **corner**.
-
----
-
-2. > `A+D~2, `
-
-   > `5C > dl.2C > 236B > 6C > dl.6B > 214A~D/214B+D > `
-
-   > `dl.66B > 236A~B~A~C > 236A+D`
-
-   _1819 dmg_ **|** **Anywhere**
-
-   - Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
-
-### Standard Enders
+## Standard Enders
 
 1. `66B` **Midscreen**
    - Basic midscreen knockdown option. Useful if you'd rather keep the opponent close than get some extra damage and meter. Knockdown depends on height/proration, may still allow air tech.
@@ -94,7 +74,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    - Damage ender for the corner. Nets a left-right mixup if the opponent airtechs forward. Can add `236B` beforehand for slightly more damage but no mixup.
    - Some corner routes pull the opponent out of the corner. In this case, go for the midscreen ender instead.
 
-### Metered Enders
+## Metered Enders
 
 1. `66B > 236B~A~B > 236A+D > 236C/214C/IW`
 
@@ -137,6 +117,30 @@ it would seem there is a section on the original guide "Normals" that is empty? 
    - Low health `CVO` ender, requires full meter before `CVO`.
 
 > Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C` normals; `236X starters`)
+
+---
+
+## Starter Combos
+
+1. > `2A > 5C > 2C > 236B > 6C > 6B > 214A~D/214B+D > `
+
+   > `2C > 236A~B~A~C > 236A+D`
+
+   _2974 dmg_ **|** **Anywhere**
+
+   - Very consistent route for normal and `Assault` starters that works both **midscreen** and in **corner**. Also works from `throw` if you skip to `2C`. Use `214A` to stay on the same side of your opponent, `214B~D` to sideswap. _Adjust the ender if in_ **corner**.
+
+---
+
+2. > `A+D~2, `
+
+   > `5C > dl.2C > 236B > 6C > dl.6B > 214A~D/214B+D > `
+
+   > `dl.66B > 236A~B~A~C > 236A+D`
+
+   _1819 dmg_ **|** **Anywhere**
+
+   - Slight upgrade to the previous combo. Delaying `2C` is needed after throw since `5C` will then OTG launch. Getting comfortable with `dl6B` and the `66B` ender is helpful for later routes.
 
 ## 214X/j214X
 
@@ -204,6 +208,8 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 "Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in **pressure**, defense, scrambles, and close range **punish** situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance **pressure**.
 
+---
+
 ### Throw
 
 Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
@@ -265,6 +271,8 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - For when the opponent gets hit by 1-2 `A` normals when going for TRM. The extra hits before the throw heavily prorate the combo so full throw routes won't work. Omit `6B` in corner and change ender accordingly.
 
+---
+
 ### Assault
 
 1. > `6D, j2C, 2A > 5C > 2C > 236A > 9D, dljC, `
@@ -301,9 +309,9 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - Adding `jB` after `236A` does slightly more damage but requires a delayed jump after `236A`.
 
-### A starters
-
 ---
+
+### A starters
 
 1. > `2A/5A > 5C/2C > 236A > 9D, icj2C, `
 
@@ -340,6 +348,8 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
    _3219 dmg (3326)_ **|** **Corner**
 
    - Corner TK route, sideswaps then crosses over the opponent to put them back in corner. Land and rejump into the `j236A`. Omit `6C` for `2AA` or `5A` starters or if **confirm**ed into `2C`.
+
+---
 
 ### B/C Starters
 
@@ -385,6 +395,8 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
    _3758 dmg_ **|** **Corner**
 
    - New patch TK routing making use of Yuzuriha's extra jump cancel in combo. Does high damage and builds 1 full bar of meter. The combo can build 100 meter with the starters: `5B (5/2C)`, `4C`, `2C`, `4B` and `CH 2B (5/2C)`.
+
+---
 
 ### 2C Launch & 5C Anti-Air
 
@@ -456,6 +468,8 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - Stronger corner `2C 5C` **confirm**
 
+---
+
 ### Force Function Starter/Extension
 
 1. > `2A/5A > 5C > 236A > 9D, icj2C, `
@@ -508,6 +522,8 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.[^10]
    - `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.[^10]
+
+---
 
 ### 66C
 
@@ -570,6 +586,8 @@ Starters that leave the opponent high off the ground can't easily route into `23
 ## **Far Range Combos**
 
 Distance proration and variable number of `214X/j214X` hits may cause damage to vary more from values given here. `236X` base damage also decreases with marks used in stance, so hits later in stance will do less damage.
+
+---
 
 ### Stance
 
@@ -682,6 +700,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
 
+---
+
 ### Stance Super Confirms[^22]
 
 9. > `236B~D, 236C > 421A > 236B > 214B+D, `
@@ -717,6 +737,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
     _3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
 
     - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
+
+---
 
 ### 236C
 
