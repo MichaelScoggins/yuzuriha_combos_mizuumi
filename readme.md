@@ -44,8 +44,6 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 >   - [Air-to-Air](#air-to-air)
 > - [Footnotes](#footnotes)
 
----
-
 ## Standard Enders
 
 1. `66B` **Midscreen**
@@ -272,6 +270,8 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
    - For when the opponent gets hit by 1-2 `A` normals when going for TRM. The extra hits before the throw heavily prorate the combo so full throw routes won't work. Omit `6B` in corner and change ender accordingly.
 
+   ***
+
 ### Assault
 
 1. > `6D, j2C, 2A > 5C > 2C > 236A > 9D, dljC, `
@@ -307,6 +307,8 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
    _2740 dmg_ **|** **Corner**
 
    - Adding `jB` after `236A` does slightly more damage but requires a delayed jump after `236A`.
+
+   ***
 
 ### A starters
 
@@ -345,6 +347,8 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
    _3219 dmg (3326)_ **|** **Corner**
 
    - Corner TK route, sideswaps then crosses over the opponent to put them back in corner. Land and rejump into the `j236A`. Omit `6C` for `2AA` or `5A` starters or if **confirm**ed into `2C`.
+
+   ***
 
 ### B/C Starters
 
@@ -390,6 +394,8 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
    _3758 dmg_ **|** **Corner**
 
    - New patch TK routing making use of Yuzuriha's extra jump cancel in combo. Does high damage and builds 1 full bar of meter. The combo can build 100 meter with the starters: `5B (5/2C)`, `4C`, `2C`, `4B` and `CH 2B (5/2C)`.
+
+   ***
 
 ### 2C Launch & 5C Anti-Air
 
@@ -461,6 +467,8 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - Stronger corner `2C 5C` **confirm**
 
+   ***
+
 ### Force Function Starter/Extension
 
 1. > `2A/5A > 5C > 236A > 9D, icj2C, `
@@ -513,6 +521,8 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.[^10]
    - `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.[^10]
+
+   ***
 
 ### 66C
 
@@ -687,6 +697,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
 
+   ***
+
 ### Stance Super Confirms[^22]
 
 9. > `236B~D, 236C > 421A > 236B > 214B+D, `
@@ -722,6 +734,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
     _3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
 
     - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
+
+    ***
 
 ### 236C
 
@@ -788,6 +802,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - Far range `236C` conversion BNB via `421C j236A`. `421B` routes are more difficult here[^29] because the opponent passes over Yuzu on the teleport, but `421C` body blocks the opponent to set up a consistent `j236A` hit.
 
+   ***
+
 6. > `236C > 421B > 236A > 9D, icj2C, `
 
    > `tk j236A > j6B > j6C > j6A > 9D, j.B > j.C, `
@@ -800,11 +816,10 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    - Corner TK routing optimization for `236C` starter. `421B` not only moves you into position if starting further away, it makes this route do more damage at close range than skipping to `236A`. Yes, really.
 
----
-
-_good luck, future iaido master!_
+     ***
 
 [![Good Luck!](https://wiki.gbl.gg/images/0/0a/UNI_Color_Yuzuriha_11.png)](#combo-sections)
+_good luck, future iaido master!_
 
 # Footnotes
 
