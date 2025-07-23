@@ -49,9 +49,10 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 ## Standard Enders
 
 1. `66B` **Midscreen**
+
    - Basic midscreen knockdown option. Useful if you'd rather keep the opponent close than get some extra damage and meter. Knockdown depends on height/proration, may still allow air tech.
 
----
+   ***
 
 2. `66B > 236A~B~A~C/236B~A~B > 236A+D` **Midscreen**
 
