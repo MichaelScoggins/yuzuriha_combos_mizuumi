@@ -218,7 +218,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 "Close Range" routes encompass anything where spacing allows routing into `236A 9D icj2C` and cover routes commonly used in **pressure**, defense, scrambles, and close range **punish** situations. "Far Range" extends from this point (about max `5B` range) outwards. These routes are staples for neutral conversions and stance **pressure**.
 
-## _Throw_
+### _Throw_
 
 Yuzuriha's combo throw input works with any down input, but is notated here as `A+D~2`.
 
