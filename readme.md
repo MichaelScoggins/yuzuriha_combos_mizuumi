@@ -40,8 +40,6 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 >   - [Stance](#stance)
 >   - [Stance Supers](#stance-super-confirms)
 >   - [236C](#236c)
->   - [214X/j214X](#214xj214x)
->   - [Air-to-Air](#air-to-air)
 > - [Footnotes](#footnotes)
 
 ## _Standard Enders_
@@ -719,6 +717,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
    > `66B > 236A~B~A~C > 236AD`
 
    _3392 dmg_[^23] **|** **Back to Corner**
+
+   ***
 
    > `236B~D, 236C > 421A > 236B~D, `
 
