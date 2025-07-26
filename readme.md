@@ -38,7 +38,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 >   - [66C](#66c)
 > - [**Far Range Combos**](#far-range-combos)
 >   - [Stance](#stance)
->   - [Stance Supers](#stance-super-confirms)
+>   - [Stance Super Confirms](#stance-super-confirms22)
 >   - [236C](#236c)
 > - [Footnotes](#footnotes)
 
