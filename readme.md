@@ -573,7 +573,9 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-4. > `66C(1) > j236B > j421C > 2FF, 2C > 236A > 9D, j.2[C], `
+4. > `66C(1) > j236B > j421C > 2FF, `
+
+   > `2C > 236A > 9D, j.2[C], `
 
    > `5C > 236B > 6C > dl 6B > 214A > `
 
