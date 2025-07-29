@@ -2,7 +2,7 @@
 
 > # yuzuriha combo list (UNI2)
 
-## intro
+> ## intro
 
 - my markdown conversion (with notes) of the terrific combo guide from
 
