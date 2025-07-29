@@ -27,7 +27,6 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 > - [Starter Combos](#starter-combos)
 > - [214X/j214X](#214xj214x)
 > - [Air-to-Air](#air-to-air)
->
 > - [**Close Range Combos**](#close-range-combos)
 >   - [Throw](#throw)
 >   - [Assault](#assault)
@@ -164,7 +163,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 2. > `j214X(~D, 66B) > 236A > 9D, icj2C, `
 
-   > `2C > 5C > j2C > jB > jC, `
+   > `2C > 5C > j2C > jB > jC, `[^footnote1]
 
    > `66B > 236B~A~B > 236AD`
 
@@ -180,7 +179,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    > `66B > 236B > 6C > 214B > 421A`
 
-   _3447 dmg_ **|** **Corner**
+   _3447 dmg_[^footnote2] **|** **Corner**
 
    - Better corner **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
 
@@ -200,7 +199,9 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    ***
 
-2. > `jB > j6C > j421C > 2FF, 2C > 236A > 9D > j2[C], `
+2. > `jB > j6C > j421C > 2FF, `
+
+   > `2C > 236A > 9D > j2[C], `
 
    > `5C > 236B > 6C > dl 6B > 214A, `
 
@@ -589,7 +590,9 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 5. > `66C > j236A~B > j214B+D, `
 
-   > `5C (> 2C) > 236A > w6C~D, jB > j2C > jC, `
+   > `5C (> 2C) > 236A > w6C~D, `
+
+   > `jB > j2C > jC, `
 
    > `66B > 236B~A~B > 236A+D`[^15]
 
@@ -863,7 +866,7 @@ _good luck, future iaido master!_
 [^18]: it's perplexing that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
 [^19]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
 [^20]: i get _3524 dmg_, for whatever reason
-[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what og author meant?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
+[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
 [^22]: added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
 [^23]: _kiri ender: 3420 dmg_
 [^24]: first combo is easier and does more damage. haven't yet found utility for using second combo over it. even the subsequent combo is better than both
@@ -872,3 +875,5 @@ _good luck, future iaido master!_
 [^27]: `214B+D` sideswaps. _4118_ for sameside variant
 [^28]: stay in stance for first part. `214B+D` sideswaps (returning you to same side as when combo started; so technically doesn't sideswap), and does less damage, at _4021_. same-side (technically sideswap) variant does _4086_. i can't understand how `421B` routes are "more difficult here." if anything they are easier (especially staying on the same side), and not only that, but the listed combo here is more difficult, and does less damage. still a nice combo though, especially if you actually want to sideswap at range for some reason
 [^29]: also should delay `214A`, in order to land entire ender. does more damage if you avoid stance on enders. but recommended to stay in stance for first part
+[^footnote1]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
+[^footnote2]: _3424 dmg_ seems to be the actual number. _3469_ if stance version
