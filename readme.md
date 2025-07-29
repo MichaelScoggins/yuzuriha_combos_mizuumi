@@ -2,6 +2,8 @@
 
 > # yuzuriha combo list (UNI2)
 
+## intro
+
 - my markdown conversion (with notes) of the terrific combo guide from
 
 > https://wiki.gbl.gg/w/Under_Night_In-Birth/UNI2/Yuzuriha/Combos
