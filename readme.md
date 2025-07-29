@@ -8,8 +8,6 @@
 
 ## intro
 
----
-
 as a new Yuzu player completely overwhelmed with her skill floor but thinking her iaido style is just too damned cool, i decided i would struggle to internalize the above guide for Yuzu in my attempt to become proficient with her, and i wanted to make it easier to read for myself
 
 this "project" is merely an exercise in improving readability as i attempt to internalize every combo in this impressive list. it is also going to reflect my (lack of) proficiency in markdown
