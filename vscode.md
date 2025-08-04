@@ -149,7 +149,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    > `2A > 5C > j2C > jB > jC, `
 
-   > `66B > 236A > dl 9D, j.B > j.C, `
+   > `66B > 236A > dl 9D, j.B > j.C, `[^footnote1]
 
    > `66B > 236B~A~B > 236AD` **_3219 dmg_**
 
@@ -159,7 +159,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 2. > `j214X(~D, 66B) > 236A > 9D, icj2C, ` **Midscreen**
 
-   > `2C > 5C > j2C > jB > jC, `[^footnote1]
+   > `2C > 5C > j2C > jB > jC, `[^footnote2]
 
    > `66B > 236B~A~B > 236AD` **_3275 dmg_**
 
@@ -169,9 +169,9 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 3. > `j214X(~D, 66B) > 236A > 9D, icj2C, ` **Corner**
 
-   > `5C > j2C > jB > jC, `
+   > `5C > j2C > jB > jC, `[^footnote3]
 
-   > `66B > 236B > 6C > 214B > 421A` **_3447 dmg_[^footnote2]**
+   > `66B > 236B > 6C > 214B > 421A` **_3447 dmg_**
 
    - Better corner **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
 
@@ -811,5 +811,6 @@ _good luck, future iaido master!_
 [^27]: `214B+D` sideswaps. _4118_ for sameside variant
 [^28]: stay in stance for first part. `214B+D` sideswaps (returning you to same side as when combo started; so technically doesn't sideswap), and does less damage, at _4021_. same-side (technically sideswap) variant does _4086_. i can't understand how `421B` routes are "more difficult here." if anything they are easier (especially staying on the same side), and not only that, but the listed combo here is more difficult, and does less damage. still a nice combo though, especially if you actually want to sideswap at range for some reason
 [^29]: also should delay `214A`, in order to land entire ender. does more damage if you avoid stance on enders. but recommended to stay in stance for first part
-[^footnote1]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
-[^footnote2]: _3424 dmg_ seems to be the actual number. _3469_ if stance version
+[^footnote1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
+[^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
+[^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
