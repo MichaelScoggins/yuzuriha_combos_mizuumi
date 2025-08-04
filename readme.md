@@ -564,11 +564,11 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-3. > `66C(1) > j236B > j6C > j6A > dlj214B, `
+3. > `66C(1) > j236B > j6C > j6A > dlj214B, `[^13]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~C > 236A+D`[^13]
+   > `66B > 236A~B~A~C > 236A+D`
 
    _3328 dmg_ **|** **Anywhere**
 
@@ -667,6 +667,8 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
    > `66B > 236B~A~B > 236A+D`
 
    _2781 dmg_ **|** **Midscreen**
+
+   ***
 
    > `236B~D, 236B > 421B > dl236A > dl214B~D, `
 

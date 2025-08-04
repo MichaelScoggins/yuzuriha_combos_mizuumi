@@ -79,43 +79,43 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
 ## _Metered Enders_
 
-1. `66B > 236B~A~B > 236A+D > 236C/214C/IW`
+1. `66B > 236B~A~B > 236A+D > 236C/214C/IW` **Midscreen**
 
-   _cost: 100/200 EXS_ **|** **Midscreen**
+   _cost: 100/200 EXS_
 
    - Midscreen meter dump. `236C` retains the strong frame advantage of the `236X` enders and adds about 500 damage. `214C` does more damage for worse oki.
    - `IW` is interchangeable with all EX enders as desired and able. For `IWEX`, do `236A~B~A > IWEX` instead.
 
    ***
 
-2. `66B > 236A > 214B > j214C > 421A~D`
+2. `66B > 236A > 214B > j214C > 421A~D` **Corner**
 
-   _100 EXS_ **|** **Corner**
+   _cost: 100 EXS_
 
    - Corner meter dump. `236B~A 214B j214C+D` can squeeze out a little more damage to close rounds.
 
    ***
 
-3. `CVO, 66B > 236B~A~B > 236A+D > IW`
+3. `CVO, 66B > 236B~A~B > 236A+D > IW` **Midscreen**
 
-   _100 EXS, Vorpal_ **|** **Midscreen**
+   _cost: 100 EXS, Vorpal_
 
    - `Low meter CVO` ender. Skip to `IW` after `236BA` in the corner.
    - For all `CVO` enders, you can start from any previous meterless ender and `CVO` immediately after the last attack that is not D-paired.
 
    ***
 
-4. `CVO, TK j.214C > IW`
+4. `CVO, TK j.214C > IW` **Anywhere**
 
-   _200 EXS, Vorpal_ **|** **Anywhere**
+   _cost: 200 EXS, Vorpal_
 
    - `High health CVO` ender. Delay the `j.214C` slightly to ensure `IW` connects in the corner. `214C` also works, but is slightly slower and thus slightly more meter depletes before you can `IW`. If health is <30% and you have at least 110 meter, you can do this route with `IWEX` instead of `IW`. Sideswaps, so you may want to use `236C` instead of `j214C` if the combo won't kill.
 
    ***
 
-5. `CVO, 66B > 236C > 236A > 214C > IWEX`
+5. `CVO, 66B > 236C > 236A > 214C > IWEX` **Anywhere**
 
-   _200 EXS, Vorpal_ **|** **Anywhere**
+   _cost: 200 EXS, Vorpal_
 
    - Low health `CVO` ender, requires full meter before `CVO`.
 
@@ -256,7 +256,7 @@ Yuzuriha's combo throw input works with any down input, but is notated here as `
 
 ### _Assault_
 
-1. > `6D, j2C, 2A > 5C > 2C > 236A > 9D, dljC, ` **Midscreen**
+1. > ~~`6D, j2C, 2A > 5C > 2C > 236A > 9D, dljC, ` **Midscreen**~~
 
    > `66C > j236A > j6C > j214B~D, `
 
@@ -447,7 +447,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `66B > 236A~B~A~C > 236A+D`[^7] **_3654 dmg_[^7]**
 
-   1 GRD **|** meter gain: 101 / Opponent: 59
+   cost: 1 GRD **|** meter gain: 101 / Opponent: 59
 
    - `FF~A` extension on better starters. Changes to Yuzuriha's character mechanics allow for her to do 2 jump cancels in one combo, allowing her to squeak just enough hits to build 100 meter in a single combo with a low GRD cost
 
@@ -461,7 +461,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `66B > 236B~A~B > 236A+D`[^8] **_3751 dmg (3673)_[^8]**
 
-   1 GRD
+   cost: 1 GRD
 
    - Non-CH `236A` hit **confirm**s for when you hold too long for or are out of range of `66C1` routes. Great damage, carry, and stability vs `non-FF confirms`, so these are a particularly good use of GRD.
 
@@ -494,7 +494,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-2. > `66C(1) > j236A > 9D, icj2C, `**Anywhere**
+2. > `66C(1) > j236A > 9D, icj2C, ` **Anywhere**
 
    > `2C > 236B > 6C > dl6B > 214A/214B+D, `
 
@@ -504,11 +504,11 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-3. > `66C(1) > j236B > j6C > j6A > dlj214B, `**Anywhere**
+3. > `66C(1) > j236B > j6C > j6A > dlj214B, `[^13] **Anywhere**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~C > 236A+D`[^13] **_3328 dmg_**
+   > `66B > 236A~B~A~C > 236A+D` **_3328 dmg_**
 
    - Adaptation of the carry **punish** route for `66C(1)` starter. This is also your optimal **confirm** from `counterhit tk j236A` (_3794_).
 
@@ -520,13 +520,13 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `5C > 236B > 6C > dl 6B > 214A > `
 
-   > `66B > 236A~B~A~C > 236AD`[^14] _3462 dmg_[^14]
+   > `66B > 236A~B~A~C > 236AD`[^14] **_3462 dmg_[^14]**
 
    - Utilizes `2FF` to pick up after `j.236B`, gives both high damage and excellent corner carry
 
    ***
 
-5. > `66C > j236A~B > j214B+D, ` **Midscreen**
+5. > `66C > j236A~B > j214B+D, ` **Midscreen** $
 
    > `5C (> 2C) > 236A > w6C~D, `
 
@@ -542,13 +542,11 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 ### _Stance_
 
-1. > `236B~D, 236A/236B > dl214B~D, `
+1. > `236B~D, 236A/236B > dl214B~D, ` **Midscreen**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236B~A~B > 236A+D`
-
-   _3009/2716 dmg_ **|** **Midscreen**
+   > `66B > 236B~A~B > 236A+D` **_3009/2716 dmg_**
 
    - Basic `6X/236B` conversion and your go-to combo near max `236B` range.`236A > dl 214B~D` will cover most hits, but near max range you need `236B` instead.
    - `j236B` can also go into any `236B` starter route at heights that will hit standing opponents, but there's a trick: above TK height you'll want to whiff `jA` or `jB` as you fall to reduce landing recovery and then buffer your followup behind that. Use whichever button doesn't correspond to your followup `236X` hit to make things easier.
@@ -556,98 +554,86 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    ***
 
-2. > `236B~D, 236A > 421C > dl j214B~D, `
+2. > `236B~D, 236A > 421C > dl j214B~D, ` **Midscreen**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~B > 236A+D`
-
-   _3184 dmg_ **|** **Midscreen**
+   > `66B > 236A~B~A~B > 236A+D` **_3184 dmg_**
 
    - Higher damage conversion with less carry. Delay `j214B` slightly to get more hits and higher damage.
    - _Kiri ender: 3365 damage_
 
    ***
 
-3. > `236B~D, 236A > 421C > (j421B >) j6A > j214A+D, `
+3. > `236B~D, 236A > 421C > (j421B >) j6A > j214A+D, ` **Midscreen**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~B > 236A+D`
-
-   _3345 dmg_ **|** **Midscreen**
+   > `66B > 236A~B~A~B > 236A+D` **_3345 dmg_**
 
    - Optimized midrange damage. Adding `j421B` puts you back on the same side, but makes the combo more difficult[^16]. Omit `2C` if starting with `6A` or `6C`.
    - _Kiri ender: 3304 damage_. Very difficult, requires very clean height management beforehand.[^17]
 
    ***
 
-4. > `236B~D, dl236A > 421B > dl6A > 214B+D, `[^18]
+4. > ~~`236B~D, dl236A > 421B > dl6A > 214B+D, `[^18] **Midscreen**~~
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~B > 236A+D`
-
-   _3204 dmg_ **|** **Midscreen**
+   > `66B > 236A~B~A~B > 236A+D` **_3204 dmg_**
 
    - Sameside alternative to the previous route. Delay both `236A` and `6A` as late as possible so the opponent is low enough for `6A` to connect.
 
    ***
 
-5. > `236B~D, 236B > 421C > j236B > j214B+D, `
+5. > `236B~D, 236B > 421C > j236B > j214B+D, ` **Midscreen**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236B~A~B > 236A+D`
+   > `66B > 236B~A~B > 236A+D` **_2781 dmg_**
 
-   _2781 dmg_ **|** **Midscreen**
+   ***
 
-   > `236B~D, 236B > 421B > dl236A > dl214B~D, `
+   > `236B~D, 236B > 421B > dl236A > dl214B~D, ` **Midscreen**
 
    > `2C > 5C > dlj2C > jB > jC,`
 
-   > `66B > 236B~A~B > 236A+D`
-
-   _2739 dmg_ **|** **Midscreen**
+   > `66B > 236B~A~B > 236A+D` **_2739 dmg_**
 
    - Corner carry routes that cover nearly the entire stage. Especially nice on far range `236B` hits when your **back is near (but not in) the corner**.[^19]
 
    ***
 
-6. > `j236A/j6C > j236B > j214B+D, `
+6. > `j236A/j6C > j236B > j214B+D, ` **Midscreen**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~C > 236A+D`
-
-   _3224/2970 dmg_ **|** **Midscreen**
+   > `66B > 236A~B~A~C > 236A+D` **_3224/2970 dmg_**
 
    - Same concept as the ground conversions, but for common air stance attacks. This combo is likely one of your main uses for negative edge D-pairing, so it's a good opportunity to practice that as well.
    - _Kiri ender: 3270/3036_
 
    ***
 
-7. > `236B~D, 66C(1) > j236A > 9D, icj2C, `
+7. > `236B~D, 66C(1) > j236A > 9D, icj2C, ` **Corner**
 
    > `5C > 236A > 6C > dl6B > 214A/214B+D, `
 
-   > `66B > 236A > 214B > 421A~D`
-
-   _3490 dmg_[^20] **|** **Corner**
+   > `66B > 236A > 214B > 421A~D` **_3490 dmg_[^20]**
 
    - Midrange `236B` hits in corner can **confirm** into `66C(1)` for high damage. Use `236A` instead of `236B` later in the combo to avoid SMP. Also works from `6B`, but not `6C`.
 
    ***
 
-8. > `236B, 421B > 6A > FF~A~D, `[^21]
+8. > `236B, 421B > 6A > FF~A~D, `[^21] **Back to Corner**
 
    > `2C > 236A > dl9D, jB > jC, `
 
    > `66C > j236A > j6B > j214A, `
 
-   > `66B > 236A > 214B > 421A~D`
+   > `66B > 236A > 214B > 421A~D` **_3296 dmg_**
 
-   _3296 dmg_ **|** 1 GRD **|** **Back to Corner**
+   cost: 1 GRD
 
    - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
 
@@ -655,39 +641,37 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 ### _Stance Super Confirms[^22]_
 
-9. > `236B~D, 236C > 421A > 236B > 214B+D, `
+9. > `236B~D, 236C > 421A > 236B > 214B+D, ` **Back to Corner**
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~C > 236AD`
-
-   _3392 dmg_[^23] **|** **Back to Corner**
+   > `66B > 236A~B~A~C > 236AD` **_3392 dmg_[^23]**
 
    ***
 
-   > `236B~D, 236C > 421A > 236B~D, `
+   > `236B~D, 236C > 421A > 236B~D, ` **Back to Corner**
 
    > `236A > 421C > j214B~D,`
 
    > `5C > dlj2C > jB > jC, `
 
-   > `66B > 236B~A~B > 236AD`
+   > `66B > 236B~A~B > 236AD` **_3341 dmg_**
 
-   _3341 dmg_ **|** 100 EXS **|** **Back to Corner**
+   cost: 100 EXS
 
    - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.[^24]
 
    ***
 
-10. > `236B~D, 236C > 421B > dl236A > w6C~D, `
+10. > `236B~D, 236C > 421B > dl236A > w6C~D, ` **Back to Corner**
 
     > `j2C > jB > jC, `[^25]
 
     > `66C > j236A > j6C > j214B~D, `
 
-    > `66B > 236A~B~A~C > 236AD`
+    > `66B > 236A~B~A~C > 236AD` **_3470 dmg_[^25]**
 
-    _3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
+    cost: 100 EXS
 
     - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
