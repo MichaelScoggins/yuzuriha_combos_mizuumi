@@ -20,6 +20,8 @@ if the original author/site of the combo guide has any problems or issues with t
 
 it would seem there is a section on the original guide "Normals" that is empty? so i did not include it. i think they started a "far range combos" section with intent of including both stance starters and normal starters (presumably 6X) but never got around to the latter :disappointed:. i've also reordered the sections a bit
 
+i also feel it's important to note that staying in stance actually typically decreases damage output, while making it usually easier to execute the combo, allowing longer holds without exiting stance. while the dmg outputs are similar, it is important to note while using the listed damage as reference
+
 ---
 
 > # [_**Combo Sections**_](#combo-sections)
@@ -518,9 +520,9 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `2C > 236A > 9D, j.2[C], `
 
-   > `5C > 236B > 6C > dl 6B > 214A > `
+   > `5C > 236B > 6C > dl 6B > 214A > `[^14]
 
-   > `66B > 236A~B~A~C > 236AD`[^14] **_3462 dmg_[^14]**
+   > `66B > 236A~B~A~C > 236AD` **_3462 dmg_**
 
    - Utilizes `2FF` to pick up after `j.236B`, gives both high damage and excellent corner carry
 
@@ -778,8 +780,8 @@ _good luck, future iaido master!_
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
 [^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. `214B` variant nets _3426_ and `214A` nets _3368_ for me
-[^13]: you'll also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you'll whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
-[^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is my conclusion
+[^13]: you'll also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you'll whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort. kiri ender: _3378 dmg_
+[^14]: sick combo. use `214B~D` for sideswap
 [^15]: ender won't work if combo ends up in corner
 [^16]: it doesn't really make combo more difficult, once you get the basic rhythm
 [^17]: honestly it isn't that hard to hit combo, nor kiri ender

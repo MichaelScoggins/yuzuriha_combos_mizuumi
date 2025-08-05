@@ -20,6 +20,8 @@ if the original author/site of the combo guide has any problems or issues with t
 
 it would seem there is a section on the original guide "Normals" that is empty? so i did not include it. i think they started a "far range combos" section with intent of including both stance starters and normal starters (presumably 6X) but never got around to the latter :disappointed:. i've also reordered the sections a bit
 
+i also feel it's important to note that staying in stance actually typically decreases damage output, while making it usually easier to execute the combo, allowing longer holds without exiting stance. while the dmg outputs are similar, it is important to note while using the listed damage as reference
+
 ---
 
 > # [_**Combo Sections**_](#combo-sections)
