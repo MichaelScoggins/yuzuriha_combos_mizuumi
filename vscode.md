@@ -197,7 +197,7 @@ it would seem there is a section on the original guide "Normals" that is empty? 
 
    > `66B > 236A~B~A~C > 236AD` **_3238 dmg_**
 
-   - cost: 1 GRD
+   _cost: 1 GRD_
 
    - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
 
@@ -433,7 +433,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `66B > 236B~A~B > 236A+D`[^5] **_3394 dmg_[^6]**
 
-   cost: 1 GRD
+   _cost: 1 GRD_
 
    - `FF~A` extension for damage and carry at the expense of some GRD
 
@@ -447,7 +447,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `66B > 236A~B~A~C > 236A+D`[^7] **_3654 dmg_[^7]**
 
-   cost: 1 GRD **|** meter gain: 101 / Opponent: 59
+   _cost: 1 GRD **|** meter gain: 101 / Opponent: 59_
 
    - `FF~A` extension on better starters. Changes to Yuzuriha's character mechanics allow for her to do 2 jump cancels in one combo, allowing her to squeak just enough hits to build 100 meter in a single combo with a low GRD cost
 
@@ -461,7 +461,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `66B > 236B~A~B > 236A+D`[^8] **_3751 dmg (3673)_[^8]**
 
-   cost: 1 GRD
+   _cost: 1 GRD_
 
    - Non-CH `236A` hit **confirm**s for when you hold too long for or are out of range of `66C1` routes. Great damage, carry, and stability vs `non-FF confirms`, so these are a particularly good use of GRD.
 
@@ -473,7 +473,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `66B > 236B~A~B > 236AD`[^9] **_3440 dmg_**
 
-   1 GRD **|** 81 Opp: 45
+   _cost: 1 GRD **|** meter gain: 81 Opp: 45_
 
    - Standard `2FF Anti-air combo`. In some cases, it can be difficult to land `2C`. Instead, pick up after `2FF` with `2B > j2C > jB > jC, 66C > j236A > j6C > j214B~D`.[^10]
    - `66B` in ambiguous situations where you aren't sure if `2C`'s forward momentum would cause a whiff.[^10]
@@ -633,7 +633,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A > 214B > 421A~D` **_3296 dmg_**
 
-   cost: 1 GRD
+   _cost: 1 GRD_
 
    - `FF~A` **confirm** to sideswap the opponent into corner from any spacing besides point blank. Requires staying in stance after `236B`. _3637 damage_ at close range or on CH.
 
@@ -657,7 +657,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236B~A~B > 236AD` **_3341 dmg_**
 
-   cost: 100 EXS
+   _cost: 100 EXS_
 
    - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.[^24]
 
@@ -671,7 +671,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
     > `66B > 236A~B~A~C > 236AD` **_3470 dmg_[^25]**
 
-    cost: 100 EXS
+    _cost: 100 EXS_
 
     - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
@@ -687,7 +687,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236B~A~B > 236AD` **_4134 dmg_**
 
-   - cost: 100 EXS, 1 GRD
+   _cost: 100 EXS, 1 GRD_
 
    - Universal `236C` **confirm** for varying ranges. Sideswaps from about 2/3rds screen and closer.
 
@@ -699,7 +699,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236B~A~B > 236A+D` **_4176 dmg_**
 
-   - cost: 100 EXS
+   _cost: 100 EXS_
 
    - GRDless Midscreen **confirm** for varying ranges. Sideswaps from about 2/3rds screen and closer.
    - _Kiri ender: 4241 damage_
@@ -714,7 +714,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A~B~A~C > 236A+D` **_4064[^27]/4156 dmg_**
 
-   - cost: 100 EXS
+   _cost: 100 EXS_
 
    - High damage midscreen `236C` combo using `421B` sideswap to set up spacing for the midscreen **punish** route. First hit of `214A` whiffs here unless in corner, while `214BD` fully connects for additional damage.
 
@@ -726,7 +726,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236B~A~B > 236A+D` **_4379 dmg_**
 
-   - cost: 100 EXS
+   _cost: 100 EXS_
 
    - Same side `236C` **punish** route for forward carry
 
@@ -738,7 +738,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A~B~A~C > 236A+D` **_4029 dmg_[^28]**
 
-   - cost: 100 EXS
+   _cost: 100 EXS_
 
    - Far range `236C` conversion BNB via `421C j236A`. `421B` routes are more difficult here[^28] because the opponent passes over Yuzu on the teleport, but `421C` body blocks the opponent to set up a consistent `j236A` hit.
 
@@ -752,7 +752,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A > 214B > 421A` **_4539 dmg_**
 
-   - cost: 100 EXS
+   _cost: 100 EXS_
 
    - Corner TK routing optimization for `236C` starter. `421B` not only moves you into position if starting further away, it makes this route do more damage at close range than skipping to `236A`. Yes, really.
 
