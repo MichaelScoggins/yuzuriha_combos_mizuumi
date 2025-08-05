@@ -181,27 +181,27 @@ i also feel it's important to note that staying in stance actually typically dec
 
 ## _Air-to-Air_
 
-1. > `jB > j6C > j236B > dl j214A, ` **Midscreen**
+1. > `jB > j6C > j236B > dl j214A, `[^fn4] **Midscreen**
 
    > `2C > 5C > j2C > jB > jC, `
 
    > `66B > 236A~B~A~C > 236AD` **_3045 dmg_**
 
-   - Standard air to air `jB` hit combo. If you can get in range to avoid distance proration, the combo does _3167_
+   - Standard air to air `jB` hit combo. If you can get in range to avoid distance proration, the combo does _3167_[^fn4]
 
    ***
 
-2. > `jB > j6C > j421C > 2FF, ` **Midscreen**
+2. > `jB > j6C > j421C > 2FF, `[^fn5] **Midscreen**
 
    > `2C > 236A > 9D > j2[C], `
 
    > `5C > 236B > 6C > dl 6B > 214A, `
 
-   > `66B > 236A~B~A~C > 236AD` **_3238 dmg_**
+   > `66B > 236A~B~A~C > 236AD` **_3238 dmg_**[^fn5]
 
-   _cost: 1 GRD_
+   _cost: 1 GRD_[^fn5]
 
-   - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
+   - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo[^fn5]
 
    ***
 
@@ -427,7 +427,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 ### _Force Function Starter/Extension_
 
-1. > `2A/5A > 5C > 236A > 9D, icj2C, ` **Midscreen**
+1. ~~> `2A/5A > 5C > 236A > 9D, icj2C, ` **Midscreen**~~
 
    > `2C/6C > 6A > FF~A~D, `
 
@@ -800,3 +800,5 @@ _good luck, future iaido master!_
 [^footnote1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
 [^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
 [^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
+[^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
+[^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost

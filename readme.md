@@ -191,7 +191,7 @@ i also feel it's important to note that staying in stance actually typically dec
 
 ## _Air-to-Air_
 
-1. > `jB > j6C > j236B > dl j214A, `
+1. > `jB > j6C > j236B > dl j214A, `[^fn4]
 
    > `2C > 5C > j2C > jB > jC, `
 
@@ -199,11 +199,11 @@ i also feel it's important to note that staying in stance actually typically dec
 
    _3045 dmg_ **|** **Midscreen**
 
-   - Standard air to air `jB` hit combo. If you can get in range to avoid distance proration, the combo does _3167_
+   - Standard air to air `jB` hit combo. If you can get in range to avoid distance proration, the combo does _3167_[^fn4]
 
    ***
 
-2. > `jB > j6C > j421C > 2FF, `
+2. > `jB > j6C > j421C > 2FF, `[^fn5]
 
    > `2C > 236A > 9D > j2[C], `
 
@@ -211,9 +211,9 @@ i also feel it's important to note that staying in stance actually typically dec
 
    > `66B > 236A~B~A~C > 236AD`
 
-   _3238 dmg_ **|** 1 GRD **|** **Midscreen**
+   _3238 dmg_[^fn5] **|** 1 GRD[^fn5] **|** **Midscreen**
 
-   - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo
+   - "DBZ" style air to air combo. `2FF` is the easiest way to consistently stabilize the combo[^fn5]
 
    ***
 
@@ -864,15 +864,15 @@ _good luck, future iaido master!_
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
 [^12]: no matter which variant of this combo i perform, i never end up with _3390 dmg_--for whatever reason. `214B` variant nets _3426_ and `214A` nets _3368_ for me
-[^13]: you'll also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you'll whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort
-[^14]: sick combo. however, the only way i achieved _3462 dmg_ was by performing `214B~D`, which results in a sideswap. if you stay pretty tight and in stance, then the same-side variant nets mostly ~_3440 dmg_. it is (very) possible i am just performing them wrong, but this is my conclusion
+[^13]: you'll also want to delay `j6A`, to most easily prevent sideswap. and you want to use the same rhythm described in [^8] (about the `2C > 5C > j2C` segment), or else you'll whiff the `236A` followup to `66B`. you'll also probably need to wait a tick after the `66B`, so as to not drop the ender. a little tricky but not bad, and very worth the effort. kiri ender: _3378 dmg_
+[^14]: sick combo. use `214B~D` for sideswap
 [^15]: ender won't work if combo ends up in corner
 [^16]: it doesn't really make combo more difficult, once you get the basic rhythm
-[^17]: honestly it isn't that hard to hit combo, nor kiri ender.
+[^17]: honestly it isn't that hard to hit combo, nor kiri ender
 [^18]: it's perplexing that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
 [^19]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
 [^20]: i get _3524 dmg_, for whatever reason
-[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap.
+[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap
 [^22]: added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
 [^23]: _kiri ender: 3420 dmg_
 [^24]: first combo is easier and does more damage. haven't yet found utility for using second combo over it. even the subsequent combo is better than both
@@ -884,3 +884,5 @@ _good luck, future iaido master!_
 [^footnote1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
 [^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
 [^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
+[^fn4]: pretty sure this is supposed to be `dl j214B`
+[^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage for no GRD cost
