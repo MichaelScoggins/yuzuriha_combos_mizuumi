@@ -123,7 +123,7 @@ i also feel it's important to note that staying in stance actually typically dec
 
    ***
 
-> Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C` normals; `236X starters`)
+> Routes are often applicable to many different starters with minimal changes. `B/C` normals, `6X`, and `236X` can generally use the same routes at close range with minimal adjustments, or even use `A` starter routes. Combos for lower quality starters (`throw` < `assault` < `A starters`; `6X starters`) will also work on better starters (`B/C normals`; `236X starters`)
 
 ## _Starter Combos_
 
@@ -884,5 +884,5 @@ _good luck, future iaido master!_
 [^footnote1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
 [^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
 [^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
-[^fn4]: pretty sure this is supposed to be `dl j214B`
-[^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage for no GRD cost
+[^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
+[^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost
