@@ -703,7 +703,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `66B > 236A > 214B > 421A~D`
 
-   _3490 dmg_[^20] **|** **Corner**
+   _3490 dmg_ **|** **Corner**
 
    - Midrange `236B` hits in corner can **confirm** into `66C(1)` for high damage. Use `236A` instead of `236B` later in the combo to avoid SMP. Also works from `6B`, but not `6C`.
 
@@ -871,7 +871,6 @@ _good luck, future iaido master!_
 [^17]: honestly it isn't that hard to hit combo, nor kiri ender
 [^18]: it's perplexing that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
 [^19]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
-[^20]: i get _3524 dmg_, for whatever reason
 [^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap
 [^22]: added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
 [^23]: _kiri ender: 3420 dmg_
