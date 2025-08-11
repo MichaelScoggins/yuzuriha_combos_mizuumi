@@ -386,7 +386,7 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 
    > `5B/5C > dlj2C > jB > jC, `
 
-   > `66B > 236B~A~B > 236A+D`
+   > `66B > 236B~A~B > 236A+D`[^fn6]:
 
    _3575 dmg_ **|** **Midscreen**
 
@@ -885,3 +885,4 @@ _good luck, future iaido master!_
 [^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
 [^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
 [^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost
+[^fn6]: this combo (as well as previous combo) is insanely difficult--these are the highest dmg bread and butter (bnb) midscreen meterless combos on the list. the `66B` pickup is exceptionally tight (the `66C` is pretty tight to begin with), and requires perfect delays at multiple points prior. may as well go for kiri ender every time since the only way to finish the combo results in spacing very conducive to kiri ender (since it has to be perfect). this makes it slightly more rewarding than previous bnb combo since imo that combo is a bit tighter on the kiri ender (i've got as much as _3698_). you want to delay the `5B` as much as possible, as well as the `j2C` air portion, and you have to input `66B` as fast as possible as well. finally, you should delay the `236B`. good luck hitting this (and previous combo) in heat of every battle

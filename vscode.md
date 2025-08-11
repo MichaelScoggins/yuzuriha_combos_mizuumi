@@ -344,7 +344,7 @@ Also includes close range `6X` and `236X` starters. `2C` can follow these (and t
 
    > `5B/5C > dlj2C > jB > jC, `
 
-   > `66B > 236B~A~B > 236A+D` **_3575 dmg_**
+   > `66B > 236B~A~B > 236A+D`[^fn6]: **_3575 dmg_**
 
    - Alternative, **punish** route with better carry for slightly less damage. Use `5C` to relaunch on `non-5C starters`. Delay the airstring as late into your jump as possible to give yourself more time for the `66B` link.
    - _Kiri ender: 3669 damage_. Not D-canceling `j214B` helps significantly with height management. `CH 236A` can do `2C > 5C > airstring > kiri ender` for _3681 damage_. `CH j236A` gets the same route into `66B 236A~B~6C 6A 236A+D` for _3684 dmg_.
@@ -528,7 +528,7 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    ***
 
-5. > `66C > j236A~B > j214B+D, ` **Midscreen** $
+5. > `66C > j236A~B > j214B+D, ` **Midscreen**
 
    > `5C (> 2C) > 236A > w6C~D, `
 
@@ -801,3 +801,4 @@ _good luck, future iaido master!_
 [^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
 [^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
 [^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost
+[^fn6]: this combo (as well as previous combo) is insanely difficult--these are the highest dmg bread and butter (bnb) midscreen meterless combos on the list. the `66B` pickup is exceptionally tight (the `66C` is pretty tight to begin with), and requires perfect delays at multiple points prior. may as well go for kiri ender every time since the only way to finish the combo results in spacing very conducive to kiri ender (since it has to be perfect). this makes it slightly more rewarding than previous bnb combo since imo that combo is a bit tighter on the kiri ender (i've got as much as _3698_). you want to delay the `5B` as much as possible, as well as the `j2C` air portion, and you have to input `66B` as fast as possible as well. finally, you should delay the `236B`. good luck hitting this (and previous combo) in heat of every battle
