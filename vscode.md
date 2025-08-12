@@ -544,19 +544,19 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 ### _Stance_
 
-1. > `236B~D, 236A/236B > dl214B~D, ` **Midscreen**
+1. > `236B~D, 236A/236B > dl214B~D, ` **Midscreen** [^36]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
    > `66B > 236B~A~B > 236A+D` **_3009/2716 dmg_**
 
    - Basic `6X/236B` conversion and your go-to combo near max `236B` range.`236A > dl 214B~D` will cover most hits, but near max range you need `236B` instead.
-   - `j236B` can also go into any `236B` starter route at heights that will hit standing opponents, but there's a trick: above TK height you'll want to whiff `jA` or `jB` as you fall to reduce landing recovery and then buffer your followup behind that. Use whichever button doesn't correspond to your followup `236X` hit to make things easier.
+   - `j236B` can also go into any `236B` starter route at heights that will hit standing opponents, but there's a trick: above TK height you'll want to whiff `jA` or `jB` as you fall to reduce landing recovery and then buffer your followup behind that.[^39] Use whichever button doesn't correspond to your followup `236X` hit to make things easier.
    - _Kiri ender: 3083/2744 damage_, can get _2798 damage_ on `236B 236B` by changing the ender to `236A 6C`.
 
    ***
 
-2. > `236B~D, 236A > 421C > dl j214B~D, ` **Midscreen**
+2. > `236B~D, 236A > 421C > dl j214B~D, ` **Midscreen** [^37]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
@@ -567,7 +567,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    ***
 
-3. > `236B~D, 236A > 421C > (j421B >) j6A > j214A+D, ` **Midscreen**
+3. > `236B~D, 236A > 421C > (j421B >) j6A > j214A+D, ` **Midscreen** [^38]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
@@ -578,7 +578,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    ***
 
-4. > ~~`236B~D, dl236A > 421B > dl6A > 214B+D, `[^18] **Midscreen**~~
+4. > ~~`236B~D, dl236A > 421B > dl6A > 214B+D, ` **Midscreen**~~ [^18]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
@@ -588,7 +588,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    ***
 
-5. > `236B~D, 236B > 421C > j236B > j214B+D, ` **Midscreen**
+5. > `236B~D, 236B > 421C > j236B > j214B+D, ` **Back to Corner** [^19a]
 
    > `2C > 5C > dlj2C > jB > jC, `
 
@@ -596,13 +596,13 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    ***
 
-   > `236B~D, 236B > 421B > dl236A > dl214B~D, ` **Midscreen**
+   > ~~`236B~D, 236B > 421B > dl236A > dl214B~D, ` **Back to Corner**~~ [^19b]
 
    > `2C > 5C > dlj2C > jB > jC,`
 
    > `66B > 236B~A~B > 236A+D` **_2739 dmg_**
 
-   - Corner carry routes that cover nearly the entire stage. Especially nice on far range `236B` hits when your **back is near (but not in) the corner**.[^19]
+   - Corner carry routes that cover nearly the entire stage. Especially nice on far range `236B` hits when your **back is near (but not in) the corner**.
 
    ***
 
@@ -629,7 +629,7 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
 8. > `236B, 421B > 6A > FF~A~D, `[^21] **Back to Corner**
 
-   > `2C > 236A > dl9D, jB > jC, `
+   > `2C > 236A > dl9D, jB > jC, `[^21]
 
    > `66C > j236A > j6B > j214A, `
 
@@ -786,8 +786,7 @@ _good luck, future iaido master!_
 [^16]: it doesn't really make combo more difficult, once you get the basic rhythm
 [^17]: honestly it isn't that hard to hit combo, nor kiri ender
 [^18]: it's perplexing that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
-[^19]: use the first (`421C`) combo if combo won't end in corner, since its ender won't work there, plus it does more damage. use second (`421B`) combo if you are closer to mid screen and might carry to corner
-[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly and for more damage... it also does even more damage and becomes yet easier by doing `2C > 5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`. whether you change this part or not it will still do more damage than listed: _3610_ if you swap both, _3530_ if you only do the `2FF` swap
+[^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly. it also does more damage and becomes yet easier by doing `5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`
 [^22]: added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
 [^23]: _kiri ender: 3420 dmg_
 [^24]: first combo is easier and does more damage. haven't yet found utility for using second combo over it. even the subsequent combo is better than both
@@ -802,3 +801,9 @@ _good luck, future iaido master!_
 [^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
 [^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost
 [^fn6]: this combo (as well as previous combo) is insanely difficult--these are the highest dmg bread and butter (bnb) midscreen meterless combos on the list. the `66B` pickup is exceptionally tight (the `66C` is pretty tight to begin with), and requires perfect delays at multiple points prior. may as well go for kiri ender every time since the only way to finish the combo results in spacing very conducive to kiri ender (since it has to be perfect). this makes it slightly more rewarding than previous bnb combo since imo that combo is a bit tighter on the kiri ender (i've got as much as _3698_). you want to delay the `5B` as much as possible, as well as the `j2C` air portion, and you have to input `66B` as fast as possible as well. finally, you should delay the `236B`. good luck hitting this (and previous combo) in heat of every battle
+[^36]: use this when holding stance at max range `236B[D], 236B > ...`
+[^37]: use this when holding stance at less than max range `236B[D], ...`
+[^38]: use this when canceling stance at less than max range(`236B~D, ...`)
+[^19a]: changed from "Midscreen" to "Back to Corner" since that's only reason to use this: its ender won't work if combo carries to corner, alternatives won't if your back is in corner, and there's better combos if you are Midscreen (like Stance Combo #3).
+[^19b]: don't even bother with this combo, as it is more difficult and does less damage
+[^39]: i understand the whole "reduce landing recovery thing" but i honestly have no idea how it helps here. it's pretty easy to do this without the trick, and the trick doesn't seem to help at any spacing where it wouldn't work anyway
