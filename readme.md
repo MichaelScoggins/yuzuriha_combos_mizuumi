@@ -729,13 +729,13 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    > `2C > 5C > dlj2C > jB > jC, `
 
-   > `66B > 236A~B~A~C > 236AD`
+   > `66B > 236A~B~A~C > 236AD`[^24b]
 
-   _3392 dmg_[^23] **|** **Back to Corner**
+   _3392 dmg_ **|** **Anywhere** [^24a]
 
    ***
 
-   > `236B~D, 236C > 421A > 236B~D, `
+   > ~~`236B~D, 236C > 421A > 236B~D, `~~ [^24c]
 
    > `236A > 421C > j214B~D,`
 
@@ -745,19 +745,19 @@ Distance proration and variable number of `214X/j214X` hits may cause damage to 
 
    _3341 dmg_ **|** 100 EXS **|** **Back to Corner**
 
-   - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.[^24]
+   - Metered **confirm**s for stability on `236B` hits from corner. Will work at any spacing. `236C` is also your go-to **confirm** in this situation if you exit stance after `236B`.
 
    ***
 
-10. > `236B~D, 236C > 421B > dl236A > w6C~D, `
+10. > `236B~D, 236C > 421B > dl236A > w6C~D, `[^25a]
 
-    > `j2C > jB > jC, `[^25]
+    > `j2C > jB > jC, `[^25b]
 
     > `66C > j236A > j6C > j214B~D, `
 
     > `66B > 236A~B~A~C > 236AD`
 
-    _3470 dmg_[^25] **|** 100 EXS **|** **Back to Corner**
+    _3470 dmg_[^25c] **|** 100 EXS **|** **Back to Corner**
 
     - Higher damage metered **confirm** from in corner with excellent carry. `236A` needs to hit high up for `6C` to whiff.
 
@@ -872,15 +872,18 @@ _good luck, future iaido master!_
 [^18]: it's perplexing that the combo before this is described as so difficult and nothing is mentioned about this one. in my view, this combo is actually the hardest, least consistent out of the entire list. and it does less damage while requiring pretty insane setup and insane delays to get the proper sideswitch, which in my attempts did not guarantee success by any means. ignore this combo and use the one above
 [^21]: this combo as written does not seem to be possible. however, a way to make it work is by simply changing `FF~A~D` to `2FF` (maybe this is what author intended?), which makes it work perfectly. it also does more damage and becomes yet easier by doing `5C > dlj2C > jB > jC` instead of the listed `2C > 236A > dl9D, jB > jC`
 [^22]: added this section to more easily find super confirms, and moved combo #10 to right before this section (now #8), since it is not a super confirm
-[^23]: _kiri ender: 3420 dmg_
-[^24]: first combo is easier and does more damage. haven't yet found utility for using second combo over it. even the subsequent combo is better than both
-[^25]: use `jB > j2C > jC` sequence instead. `j2C > jB > jC` makes it much harder than it has to be for almost no reward. input super pretty quickly after wall bounce and it's a pretty easy combo with great damage at range. _kiri ender: 3485 dmg_ without last hit (air tech)
+[^24a]: i changed "Back to Corner" -> "Anywhere" since i can't find a spacing it doesn't work (except must change ender if ends up in corner). input super right on wallbounce as opposed to after
+[^24b]: if combo ends in corner (which will be common as this combo actually works from anywhere and is a very useful confirm) you will have to change the ender since they will bounce over you otherwise. a simple one would just be changing `236AD` to `421AD` for spacing
+[^24c]: first combo is easier and does more damage. haven't yet found utility for using this combo over it. first combo covers all spacing and i'm not sure if this one does (it's annoying to test, but it seems to cover most if not all spacings). it also takes quite a few things to go right for combo to land (if you land too many "flip" hits it won't work, which is a little tricky to manage). the subsequent combo is even better than both, but your back has to actually be in the corner
+[^25a]: input super a little after wallbounce and it is pretty easy to land combo (as long as your back is to--and can actually see--the corner). also, it says `dl236A` but i find the delay is not just unnecessary but ends up messing up the `w6C~D`. just go right into `236A > w6C~D, ...`
+[^25b]: use `jB > j2C > jC` sequence instead. `j2C > jB > jC` makes it much harder than it has to be for almost no reward
+[^25c]: kiri ender is pretty easy but won't land last hit (air tech)
 [^26]: not sure why to ever do the combo listed prior instead of this one, which does more damage for no cost, and virtually equal difficulty
 [^27]: `214B+D` sideswaps. _4118_ for sameside variant
 [^28]: stay in stance for first part. `214B+D` sideswaps (returning you to same side as when combo started; so technically doesn't sideswap), and does less damage, at _4021_. same-side (technically sideswap) variant does _4086_. i can't understand how `421B` routes are "more difficult here." if anything they are easier (especially staying on the same side), and not only that, but the listed combo here is more difficult, and does less damage. still a nice combo though, especially if you actually want to sideswap at range for some reason
 [^29]: also should delay `214A`, in order to land entire ender. does more damage if you avoid stance on enders. but recommended to stay in stance for first part
 [^footnote1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
-[^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+)
+[^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+). _3326_ with `66B`. you will definitely need to delay the `j2C` quite a bit. really hard to hit
 [^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
 [^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
 [^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost
