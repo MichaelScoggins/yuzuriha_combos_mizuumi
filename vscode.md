@@ -431,9 +431,9 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
    > `2C/6C > 6A > FF~A~D, `
 
-   > `66C > j236A > j6C > j214A~D, `
+   > `66C > j236A > j6C > j214A~D, ` [^5]
 
-   > `66B > 236B~A~B > 236A+D`[^5] **_3394 dmg_[^6]**
+   > `66B > 236B~A~B > 236A+D` **_3394 dmg_[^6]**
 
    _cost: 1 GRD_
 
