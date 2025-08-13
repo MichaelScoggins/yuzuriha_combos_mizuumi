@@ -151,7 +151,7 @@ i also feel it's important to note that staying in stance actually typically dec
 
    > `2A > 5C > j2C > jB > jC, `
 
-   > `66B > 236A > dl 9D, j.B > j.C, `[^footnote1]
+   > `66B > 236A > dl 9D, j.B > j.C, `[^fn1]
 
    > `66B > 236B~A~B > 236AD` **_3219 dmg_**
 
@@ -161,9 +161,9 @@ i also feel it's important to note that staying in stance actually typically dec
 
 2. > `j214X(~D, 66B) > 236A > 9D, icj2C, ` **Midscreen**
 
-   > `2C > 5C > j2C > jB > jC, `[^footnote2]
+   > `2C > 5C > j2C > jB > jC, `[^fn2a]
 
-   > `66B > 236B~A~B > 236AD` **_3275 dmg_**
+   > `66B > 236B~A~B > 236AD` **_3275 dmg_**[^fn2b]
 
    - Better **confirm** for `TK j214X~D`. If you remain in stance and **confirm** with `(6X > dl) 236A` this also works from grounded `214X`.
 
@@ -171,7 +171,7 @@ i also feel it's important to note that staying in stance actually typically dec
 
 3. > `j214X(~D, 66B) > 236A > 9D, icj2C, ` **Corner**
 
-   > `5C > j2C > jB > jC, `[^footnote3]
+   > `5C > j2C > jB > jC, `[^fn3]
 
    > `66B > 236B > 6C > 214B > 421A` **_3447 dmg_**
 
@@ -798,9 +798,10 @@ _good luck, future iaido master!_
 [^27]: `214B+D` sideswaps. _4118_ for sameside variant
 [^28]: stay in stance for first part. `214B+D` sideswaps (returning you to same side as when combo started; so technically doesn't sideswap), and does less damage, at _4021_. same-side (technically sideswap) variant does _4086_. i can't understand how `421B` routes are "more difficult here." if anything they are easier (especially staying on the same side), and not only that, but the listed combo here is more difficult, and does less damage. still a nice combo though, especially if you actually want to sideswap at range for some reason
 [^29]: also should delay `214A`, in order to land entire ender. does more damage if you avoid stance on enders. but recommended to stay in stance for first part
-[^footnote1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
-[^footnote2]: if flip hits 4x instead of 3x, omit `2C`. still does more damage than listed (3300+). _3326_ with `66B`. you will definitely need to delay the `j2C` quite a bit. really hard to hit
-[^footnote3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
+[^fn1]: if flip hits 4x instead of 3x, use subsequent combo instead (without `2C`)
+[^fn2a]: if flip hits 4x instead of 3x (which happens when close to opponent), omit `2C`. 4x version works from grounded `214X` as well. you will need to delay the `j2C` a bit. **without `66B`**, normal ender: _3326_; kiri ender: _3457_. **with `66B`**, normal ender: _3322_; kiri ender: _3416_
+[^fn2b]: 3 hit flip version, **without `66B`**, normal ender: _3276_; kiri ender: _3379_. **with `66B`**, normal ender: _3326_; kiri ender: _3420_
+[^fn3]: _3424 dmg_ seems to be the actual number. _3469_ if stance version. regular (non-jumping) flip also works if it hits 4x instead of 3x (which it usually does), but does _3408 dmg_ and is a very tight pickup on the `66B` (you have to do the whole combo very fast, and it helps to use `jB > j2C > jC` instead of listed middle portion)
 [^fn4]: pretty sure this is supposed to be `dl j214B`. and close range does _3115_
 [^fn5]: you can actually just skip from `j421C` to `236A` which results in more damage (_3380_) for no GRD cost
 [^fn6]: this combo (as well as previous combo) is insanely difficult--these are the highest dmg bread and butter (bnb) midscreen meterless combos on the list. the `66B` pickup is exceptionally tight (the `66C` is pretty tight to begin with), and requires perfect delays at multiple points prior. may as well go for kiri ender every time since the only way to finish the combo results in spacing very conducive to kiri ender (since it has to be perfect). this makes it slightly more rewarding than previous bnb combo since imo that combo is a bit tighter on the kiri ender (i've got as much as _3698_). you want to delay the `5B` as much as possible, as well as the `j2C` air portion, and you have to input `66B` as fast as possible as well. finally, you should delay the `236B`. good luck hitting this (and previous combo) in heat of every battle
