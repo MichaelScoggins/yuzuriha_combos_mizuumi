@@ -540,13 +540,13 @@ Starters that leave the opponent high off the ground can't easily route into `23
 
 ### _66C_
 
-1. > `66C(1) > j214X, `
+1. > `66C(1) > j214X, `[^11]
 
    > `5C > 2C > 236A > w6C~D, `
 
    > `jB > j2C > jC, `
 
-   > `66B > 236B~A~B > 236A+D`[^11]
+   > `66B > 236B~A~B > 236A+D`
 
    _3052 dmg_ **|** **Anywhere**
 
@@ -856,10 +856,7 @@ _good luck, future iaido master!_
 [^5]: i can only get this combo to work with `j214B~D`, not `j214A~D`--which misses by about half a screen when i try it. even `j214B~D` is a tight pickup. either a typo or i'm missing something
 [^6]: `2C` version only gives me _3250_, sometimes _3258_, and `6C` version only _3238_, for whatever reasons. it's possible this combo is missing partially, or else i am totally misunderstanding it. several alternative, similar routes, so i'll just avoid this one for now
 [^7]: again, i can only make this work with `j214b`, and it nets me _3658_, for whatever reason
-[^8]:
-    omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and still easily misses if not managed up to that point well enough.
-    including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup if you do include them
-
+[^8]: omitting parenthesized portion requires staying in stance, and nets better dmg at _3755-3759_. delay the `6A` as much as possible, then do `FF~A~D` as fast as possible. at the end, do the `2C > 5C` very fast, then delay the `j2C` as much as possible. weird timing, and still easily misses if not managed up to that point well enough. including parenthesized portion nets _3645-3653_. the `66C` is a tight pickup if you do include them
 [^9]: i added the `antiair ` to the front of this combo for immediate clarity
 [^10]: i found original wording confusing and restructured these notes slightly to make them reflect what i think it means (basically i changed a word, a comma, and a line break)
 [^11]: use `214A` up close and `214B` when spaced. delay the `5C` or it whiffs
